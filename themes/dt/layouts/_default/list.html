@@ -1,0 +1,7 @@
+{{ define "main" }}
+	{{ if .Content }}
+	<div>
+		{{ with .Content }}<div>{{ . }}</div>{{ end }}
+	</div>
+	{{ end }}
+{{ end }}

@@ -1,0 +1,43 @@
+baseURL = "/"
+languageCode = "fr-ch"
+title = "Dorota Teterycz Esthétique"
+theme = "dt"
+
+
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
+
+[menu]
+  [[menu.main]]
+		identifier = "homepage"
+		name = "Homepage"
+		url = "/"
+		weight = 1 
+
+  [[menu.main]]
+		identifier = "dre-dorota-teterycz"
+		name = "Dre Dorota Teterycz"
+		url = "/dre-dorota-teterycz/"
+		weight = 2 
+
+  [[menu.main]]
+		identifier = "prestations"
+		name = "Les prestations"
+		url = "/prestations/"
+		weight = 3
+
+  [[menu.main]]
+		identifier = "pour-qui"
+		name = "Pour qui ?"
+		url = "/pour-qui/"
+		weight = 4
+
+  [[menu.main]]
+		identifier = "rendez-vous"
+		name = "Prenons rendez-vous"
+		url = "/rendez-vous/"
+		weight = 5
+
+

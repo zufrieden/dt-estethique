@@ -1,0 +1,6 @@
+<div class="box{{ with .Get "class" }} {{.}}{{ end }}">
+<div class="box-content">
+	{{ .Inner }}
+</div>
+<img src="{{ with .Get "img" }} {{.}}{{ end }}" alt="" class="box-img">
+</div>
