@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "fr-ch"
-title = "Dorota Teterycz Esthétique"
+title = "Dre Dorota Teterycz  – Médecine Esthétique"
 theme = "dt"
 
 
@@ -27,12 +27,6 @@ theme = "dt"
 		name = "Les prestations"
 		url = "/prestations/"
 		weight = 3
-
-  [[menu.main]]
-		identifier = "pour-qui"
-		name = "Pour qui ?"
-		url = "/pour-qui/"
-		weight = 4
 
   [[menu.main]]
 		identifier = "rendez-vous"

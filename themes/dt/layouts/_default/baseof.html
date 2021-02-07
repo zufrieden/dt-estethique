@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+<html lang="{{ .Site.LanguageCode | default "en-us" }}" class="no-js">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,12 +8,32 @@
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	<script>
+		document.documentElement.className = document.documentElement.className.replace("no-js","js");
+	</script>
 </head>
 <body>
 	{{ partial "header" . }}
 	<main class="container">
 		{{ block "main" . }}{{ end }}
-		{{ partial "footer" . }}
 	</main>
+	{{ partial "footer" . }}
+	
+	<style>
+		.js body {
+		  background-color: rgb(244,235,224);
+		}
+	</style>
+	<script>
+		const [red, green, blue] = [244,235,224]
+		const body = document.querySelector('body')
+		
+		window.addEventListener('scroll', () => {
+		  const y = 1 + (window.scrollY || window.pageYOffset) / 10000
+		  const [r, g, b] = [(red*y)*1.01, green*y, blue*y].map(Math.round)
+		  body.style.backgroundColor = `rgb(${r}, ${g}, ${b})`
+		})
+	</script>
+	
 </body>
 </html>
