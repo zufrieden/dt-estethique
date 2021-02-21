@@ -307,3 +307,40 @@ Pas de chirurgie, d'aiguilles ou d'anesthésie
 Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le laser offre jusqu'à quatre dimensions de traitement pour travailler sur les structures conjonctives plus profondes, médiales et superficielles de la peau, tout en ciblant simultanément différentes imperfections cutanées. Le traitement laser 4D de Fotona permet une contraction complète du collagène pour un resserrement et une volumisation persistants et à faible temps d'arrêt (réduction des rides) sans injection. La combinaison de ces 4 modes uniques et de deux longueurs d'onde complémentaires donne un traitement "SmoothLiftin" respectable.
 
 ### [Prendre rendez-vous]()
+
+## **Rajeunir votre peau avec la méthode Fotona4D®**
+
+#### Objectifs 
+
+* Lifting du visage non chirurgical et sans toxine
+
+#### Effets 
+
+* ?
+
+#### Séance 
+
+* 4 à 6 séances de 45 à 60 minutes
+
+#### Coûts 
+
+* CHF xx.- la séance de xx minutes
+
+#### Conseils
+
+* Éviter l’exposition ai soleil pendant 2 semaines après le traitement
+
+Fotona4D® est une procédure révolutionnaire de lifting du visage non chirurgicale qui donne une apparence rajeunie et naturelle. Si vous recherchez une option anti-âge non invasive et plus sûre
+
+Avantages de Fotona4D® :
+
+Serrage et volumisation sans besoin de charges ou de toxines  
+Un traitement lifting complet de l'intérieur vers l'extérieur  
+Rajeunissement immédiat, raffermissement et éclat  
+Teint amélioré de la peau  
+Peu ou pas de temps d'arrêt  
+Pas de chirurgie, d'aiguilles ou d'anesthésie
+
+Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le laser offre jusqu'à quatre dimensions de traitement pour travailler sur les structures conjonctives plus profondes, médiales et superficielles de la peau, tout en ciblant simultanément différentes imperfections cutanées. Le traitement laser 4D de Fotona permet une contraction complète du collagène pour un resserrement et une volumisation persistants et à faible temps d'arrêt (réduction des rides) sans injection. La combinaison de ces 4 modes uniques et de deux longueurs d'onde complémentaires donne un traitement "SmoothLiftin" respectable.
+
+### [Prendre rendez-vous]()
