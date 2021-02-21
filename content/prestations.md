@@ -291,7 +291,7 @@ Pas d'aiguilles, pas de délai de récupération
 
 #### Conseils
 
-* Éviter l’exposition ai soleil pendant 2 semaines après le traitement
+* Éviter l’exposition au soleil pendant 2 semaines après le traitement
 
 Fotona4D® est une procédure révolutionnaire de lifting du visage non chirurgicale qui donne une apparence rajeunie et naturelle. Si vous recherchez une option anti-âge non invasive et plus sûre
 
@@ -308,7 +308,7 @@ Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le lase
 
 ### [Prendre rendez-vous]()
 
-## **Rajeunir votre peau avec la méthode Fotona4D®**
+## **Sculpter et raffermir la peau avec la techologie TightSculpting®**
 
 #### Objectifs 
 
@@ -320,27 +320,24 @@ Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le lase
 
 #### Séance 
 
-* 4 à 6 séances de 45 à 60 minutes
+* 6 séances entre 45 et 60 minutes 
 
 #### Coûts 
 
-* CHF xx.- la séance de xx minutes
+* CHF xx.- la séance 
 
 #### Conseils
 
-* Éviter l’exposition ai soleil pendant 2 semaines après le traitement
+* Éviter le sport pendant 24 heures
 
-Fotona4D® est une procédure révolutionnaire de lifting du visage non chirurgicale qui donne une apparence rajeunie et naturelle. Si vous recherchez une option anti-âge non invasive et plus sûre
+C’est un traitement laser non invasif à double longueur d'onde unique pour sculpter et raffermir la peau sur toutes les zones du corps. Les modes d'administration exclusifs sont utilisés de concert pour la destruction hyperthermique des adipocytes et le remodelage du collagène avec des résultats exceptionnels.
 
-Avantages de Fotona4D® :
+1ère étape:  
+Raffermissement profond de la peau et réduction de la graisse avec PIANO® pulse
 
-Serrage et volumisation sans besoin de charges ou de toxines  
-Un traitement lifting complet de l'intérieur vers l'extérieur  
-Rajeunissement immédiat, raffermissement et éclat  
-Teint amélioré de la peau  
-Peu ou pas de temps d'arrêt  
-Pas de chirurgie, d'aiguilles ou d'anesthésie
+2ème étape:  
+Amélioration de la laxité de la surface cutanée avec SMOOTH® pulse
 
-Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le laser offre jusqu'à quatre dimensions de traitement pour travailler sur les structures conjonctives plus profondes, médiales et superficielles de la peau, tout en ciblant simultanément différentes imperfections cutanées. Le traitement laser 4D de Fotona permet une contraction complète du collagène pour un resserrement et une volumisation persistants et à faible temps d'arrêt (réduction des rides) sans injection. La combinaison de ces 4 modes uniques et de deux longueurs d'onde complémentaires donne un traitement "SmoothLiftin" respectable.
+Le chauffage intense et contrôlé des tissus de surface stimule le remodelage du collagène et initie la néocollagenèse. Les effets se traduisent par une amélioration globale de la laxité et de l'élasticité dans les zones de traitement.
 
 ### [Prendre rendez-vous]()
