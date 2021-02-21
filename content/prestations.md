@@ -341,3 +341,37 @@ Amélioration de la laxité de la surface cutanée avec SMOOTH® pulse
 Le chauffage intense et contrôlé des tissus de surface stimule le remodelage du collagène et initie la néocollagenèse. Les effets se traduisent par une amélioration globale de la laxité et de l'élasticité dans les zones de traitement.
 
 ### [Prendre rendez-vous]()
+
+## **Sculpter et raffermir la peau avec la techologie TightSculpting®**
+
+#### Objectifs 
+
+* Lifting du visage non chirurgical et sans toxine
+
+#### Effets 
+
+* ?
+
+#### Séance 
+
+* 6 séances entre 45 et 60 minutes 
+
+#### Coûts 
+
+* CHF xx.- la séance 
+
+#### Conseils
+
+* Éviter le sport pendant 24 heures
+
+C’est un traitement laser non invasif à double longueur d'onde unique pour sculpter et raffermir la peau sur toutes les zones du corps. Les modes d'administration exclusifs sont utilisés de concert pour la destruction hyperthermique des adipocytes et le remodelage du collagène avec des résultats exceptionnels.
+
+1ère étape:  
+Raffermissement profond de la peau et réduction de la graisse avec PIANO® pulse
+
+2ème étape:  
+Amélioration de la laxité de la surface cutanée avec SMOOTH® pulse
+
+Le chauffage intense et contrôlé des tissus de surface stimule le remodelage du collagène et initie la néocollagenèse. Les effets se traduisent par une amélioration globale de la laxité et de l'élasticité dans les zones de traitement.
+
+### [Prendre rendez-vous]()
