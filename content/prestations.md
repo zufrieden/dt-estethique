@@ -293,24 +293,17 @@ Pas d'aiguilles, pas de délai de récupération
 
 * Éviter l’exposition ai soleil pendant 2 semaines après le traitement
 
-Les développements récents de la technologie laser offrent maintenant une méthode plus durable et scientifiquement prouvée pour restaurer la beauté naturelle de la peau. Contrairement aux traitements traditionnels tels que la dermabrasion et les peelings chimiques, les caractéristiques uniques du resurfaçage cutané au laser permettent un contrôle plus précis et plus précis du processus de traitement.
+Fotona4D® est une procédure révolutionnaire de lifting du visage non chirurgicale qui donne une apparence rajeunie et naturelle. Si vous recherchez une option anti-âge non invasive et plus sûre
 
-Le laser autorise un contrôle exact et précis de toute la procédure. Il assure une efficacité maximale d’ablation, laquelle peut être réglée avec précision d’un niveau d’ablation « froide » minimale à un niveau d’ablation thermique profonde, en fonction des résultats cliniques attendus.
+Avantages de Fotona4D® :
 
-SmoothEye :
+Serrage et volumisation sans besoin de charges ou de toxines  
+Un traitement lifting complet de l'intérieur vers l'extérieur  
+Rajeunissement immédiat, raffermissement et éclat  
+Teint amélioré de la peau  
+Peu ou pas de temps d'arrêt  
+Pas de chirurgie, d'aiguilles ou d'anesthésie
 
-Rafraichissement et raffermissement instantanés de la zone périoculaire  
-Stimule le remodelage du collagène et amorce la néocollagénèse  
-Peu ou pas de délai de récupération  
-Doux, rapide et non invasif  
-Sécurité et contrôle précis
-
-Liplase :
-
-Repulpage non invasif pour des lèvres plus pulpeuses sans produits injectables  
-Des lèvres plus pleines et plus lisses  
-Stimule le remodelage du collagène  
-Déclenche la synthèse de nouveau collagène  
-Pas d'aiguilles, pas de délai de récupération
+Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le laser offre jusqu'à quatre dimensions de traitement pour travailler sur les structures conjonctives plus profondes, médiales et superficielles de la peau, tout en ciblant simultanément différentes imperfections cutanées. Le traitement laser 4D de Fotona permet une contraction complète du collagène pour un resserrement et une volumisation persistants et à faible temps d'arrêt (réduction des rides) sans injection. La combinaison de ces 4 modes uniques et de deux longueurs d'onde complémentaires donne un traitement "SmoothLiftin" respectable.
 
 ### [Prendre rendez-vous]()
