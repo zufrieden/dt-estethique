@@ -59,8 +59,7 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 #### Effets 
 
-* Effet immédiat   
-  Entre 6 et 12 mois
+* Entre 6 et 12 mois
 
 #### Séance 
 
@@ -84,31 +83,29 @@ L’acide hyluronique est un médicament dont l’utilisation comporte de potent
 
 ### [Prendre rendez-vous]()
 
-### **Combler ses rides avec l’acide hyaluronique**
+### **Prévenir le vieillissement avec le MicroNeedeling**
 
 #### Objectifs 
 
-* Combler des rides
-* Redéfinir les contours du visage 
-* Rajeunir le décolleté et les mains
-* Restituer du volume (lèvres, redressement du nez, cernes, pommettes)
+* Améliorer l’aspect et la texture de la peau 
+* Procurer un teint plus éclatant et uniforme
+* Densifier et raffermir l’épiderme
 
 #### Effets 
 
-* Effet immédiat   
-  Entre 6 et 12 mois
+* Entre 1 et 2 mois.
 
 #### Séance 
 
-* Entre x et x séances de 10 et 30 minutes
+* Entre x et x séances de 30 à 45 minutes
 
 #### Coûts 
 
-* CHF xx.- la séance.
+* CHF xx.- la séance
 
 #### Conseils
 
-* Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures
+* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement. Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
 
 Contrairement au "traitement par le botox" qui agit sur la musculature du visage, l'acide hyaluronique est un produit de comblement des rides. Il remplace la masse graisseuse sous cutanée, qui a tendance à disparaître avec l'âge. Il retient l'eau sous la peau comme le ferait une éponge, et redonne ainsi du volume aux traits creusés.
 
