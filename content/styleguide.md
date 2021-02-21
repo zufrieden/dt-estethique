@@ -1,6 +1,6 @@
 # Styleguide
 
-## Colors
+##### Colors
 
 <div class="color-points">
 <div class="bg-cuivre point" style="width: 30%"></div>
@@ -15,28 +15,28 @@
 <div class="bg-noir point" style="width: 5%"></div>
 </div>
 
-## Buttons links and other CTA
+##### Buttons
 
 <div>
 {{<button href="#" name="Prendre un rendez-vous" >}}
 {{<button href="#" name="En savoir plus" >}}
 </div>
 
+#####  links
+
 The ship landed in a [medley of noises](#22).
 
-[medley of noises](#22)
-
-## Typography
+##### Typography
 
 The ship landed in a medley of noises. There was the far-off hiss of the atmosphere cutting and sliding past the metal of the ship. There was the steady drone of the conditioners fighting the heat of friction, and the slower rumble of the engines enforcing deceleration. There was the human sound of men and women gathering in the debarkation rooms and the grind of the hoists lifting baggage, mail, and freight to the long axis of the ship, from which they would be later moved along to the unloading platform.
 
 
-### Quotes
+##### Quotes
 
 > Reality is that which, when you stop believing in it, doesn't go away.
 > Philip K. Dick, in “I Hope I Shall Arrive Soon”, 1985
 
-### Titles
+##### Titles
 
 # The Story of Typewriters is a title1
 
@@ -50,7 +50,7 @@ The ship landed in a medley of noises. There was the far-off hiss of the atmosph
 
 ##### This project also provided the students with a unique, unforgettable, and inspirational learning opportunity
 
-### Inline text elements
+##### Inline text elements
 
 You can use the mark tag to <mark>highlight</mark> text.
   
@@ -64,7 +64,7 @@ You can use the mark tag to <mark>highlight</mark> text.
   
 <em>This line rendered as italicized text.</em>
   
-### Lists
+##### Lists
 
 #### Bulleted multi-level
 
@@ -91,3 +91,30 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda fuga mollitia
 1.   Students
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum velit labore eos optio et sequi at id iste minima expedita obcaecati maxime libero, temporibus quaerat necessitatibus, nam in eius cupiditate.
+
+
+##### Blocks and call to actions
+
+{{< box-cta
+img="/images/face_1.png"
+surtitle="Contact"
+title="Prendre rendez-vous"
+link="#"
+link_label="Prendre rendez-vous"
+>}}
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi repudiandae blanditiis? Obcaecati tempore voluptatem voluptas natus, nostrum libero vero qui ullam distinctio.
+{{< /box-cta >}}
+
+
+{{< box-cta
+background="inverted"
+img="/images/face_1.png"
+surtitle="Contact"
+title="Prendre rendez-vous"
+link="#"
+link_label="Prendre rendez-vous"
+>}}
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi repudiandae blanditiis? Obcaecati tempore voluptatem voluptas natus, nostrum libero vero qui ullam distinctio.
+{{< /box-cta >}}
+
+

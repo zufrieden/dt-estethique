@@ -107,7 +107,7 @@
 			{{ with .Site.Menus.main }}
 			{{ range . }}
 			<li>
-				<a href="{{ .URL | relURL }}"><b>{{ .Name }}</b></a>
+				<a href="{{ .URL | relURL }}">{{ .Name }}</a>
 			</li>
 			{{ end }}
 			{{ end }}
