@@ -227,19 +227,19 @@ Ces particules sont ensuite éliminées par le système immunitaire du corps, ca
 
 ### [Prendre rendez-vous]()
 
-## **Effacer des lésions pigmentées avec le laser**
+## **Lisser votre peau avec le laser**
 
 #### Objectifs 
 
-* Élimination des lésions pigmentées
+* Lissage cutané
 
 #### Effets 
 
-* Permanent
+* Entre 3 et 6 mois
 
 #### Séance 
 
-* Entre 2 et 3 séances de 10 à 30 minutes 
+* Entre x et x séances de 10 à 30 minutes
 
 #### Coûts 
 
@@ -247,20 +247,26 @@ Ces particules sont ensuite éliminées par le système immunitaire du corps, ca
 
 #### Conseils
 
-* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement
+* Éviter le sport et de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement. l’exposition au soleil 4 semaines avant et 4 semaines après la procédure
 
-L'élimination au laser des lésions pigmentées fonctionne en détruisant le pigment de la peau sans avoir besoin d'une excision. Ce processus est terminé en 3 étapes simples:
+Les développements récents de la technologie laser offrent maintenant une méthode plus durable et scientifiquement prouvée pour restaurer la beauté naturelle de la peau. Contrairement aux traitements traditionnels tels que la dermabrasion et les peelings chimiques, les caractéristiques uniques du resurfaçage cutané au laser permettent un contrôle plus précis et plus précis du processus de traitement.
 
-Étape 1 - ABSORPTION DE LA LUMIÈRE:
+Le laser autorise un contrôle exact et précis de toute la procédure. Il assure une efficacité maximale d’ablation, laquelle peut être réglée avec précision d’un niveau d’ablation « froide » minimale à un niveau d’ablation thermique profonde, en fonction des résultats cliniques attendus.
 
-Le laser produit de courtes impulsions nanosecondes de lumière intense qui passent sans danger à travers les couches supérieures de la peau pour être sélectivement absorbées par le pigment mélanique dans la lésion.
+SmoothEye :
 
-Étape 2 - RUPTURE DU PIGMENT:
+Rafraichissement et raffermissement instantanés de la zone périoculaire  
+Stimule le remodelage du collagène et amorce la néocollagénèse  
+Peu ou pas de délai de récupération  
+Doux, rapide et non invasif  
+Sécurité et contrôle précis
 
-La lumière laser est transformée en ondes photoacoustiques qui décomposent mécaniquement le pigment mélanique en particules plus petites.
+Liplase :
 
-Étape 3 - ENLÈVEMENT DES PIGMENTS:
-
-Ces particules sont ensuite éliminées par le système immunitaire du corps, car les macro-phages de la peau éliminent l'excès de pigment de la zone.
+Repulpage non invasif pour des lèvres plus pulpeuses sans produits injectables  
+Des lèvres plus pleines et plus lisses  
+Stimule le remodelage du collagène  
+Déclenche la synthèse de nouveau collagène  
+Pas d'aiguilles, pas de délai de récupération
 
 ### [Prendre rendez-vous]()
