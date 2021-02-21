@@ -124,3 +124,45 @@ La séance dure environ 30 minutes. Elle est confortable même sur les peaux sen
 Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois séances initiales, puis renouveler entretien 3x par année.
 
 ### [Prendre rendez-vous]()
+
+### **Prévenir le vieillissement avec le MicroNeedeling**
+
+#### Objectifs 
+
+* Améliorer l’aspect et la texture de la peau 
+* Procurer un teint plus éclatant et uniforme
+* Densifier et raffermir l’épiderme
+
+#### Effets 
+
+* 4 mois
+
+#### Séance 
+
+* 3 séances de 30 à 45 minutes puis puis renouveler 3 fois par année
+
+#### Coûts 
+
+* CHF xx.- la séance
+
+#### Conseils
+
+* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement. Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
+
+La technique de MicroNeedeling est idéale en prévention du vieillissement. Elle va améliorer l’aspect et la texture de la peau. Procurer un teint plus éclatant et uniforme. Il est idéal pour densifier et raffermir l’épiderme.
+
+En stimulant toutes les fonctions cutanées, il va booster la régénération de la peau, la production naturelle de collagène et d’élastine, ces cellules sont responsables de sa qualité.
+
+Les micro-perforations vont permettre d’activer le processus de cicatrisation de l’épiderme, favorisant ainsi le renouvellement cellulaire, réactiver les fibroblastes et redonner vitalité. C’est une technique parfaite pour ralentir les effets de l’âge.
+
+Les perforations pratiquées sont « microscopiques » : elles ne causent ni lésions, ni marques, ni douleur. Leur seul but est de provoquer le renouvellement du tissu cutané en stimulant la peau de façon mécanique.
+
+En plus de provoquer mécaniquement le renouvellement de la peau, les micro-perforations permettent l’application de sérum aux principes actifs naturels.
+
+Particulièrement efficace pour l’éclaircissement du teint par exemple. On observe aussi un effet tenseur et une régularisation du teint sur les peaux plus matures. Idéal pour les pores dilatées. Les fumeurs retrouvent l’éclat d’une peau saine.
+
+La séance dure environ 30 minutes. Elle est confortable même sur les peaux sensibles. Une légère rougeur peut persister quelques heures après la séance. Le maquillage est possible dès le lendemain.
+
+Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois séances initiales, puis renouveler entretien 3x par année.
+
+### [Prendre rendez-vous]()
