@@ -157,11 +157,11 @@ Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profonde
 
 ### [Prendre rendez-vous]()
 
-## **Traiter les varicosités avec le laser combiné à la sclérothérapie**
+## **L’épilation définitive grâce au laser**
 
 #### Objectifs 
 
-* Traitement des varicosités disgracieuses des jambes et d’autres lésions vasculaires
+* Épilation définitive
 
 #### Effets 
 
@@ -169,22 +169,22 @@ Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profonde
 
 #### Séance 
 
-* Entre 2 et 3 séances de 20 à 45 minutes
+* Entre x et x séances de 10 à 120 minutes
 
 #### Coûts 
 
-* CHF xx.- la séance
+* CHF xx.- la séance de xx minutes
 
 #### Conseils
 
-* Éviter l’exposition ai soleil pendant 2 semaines après le traitement. Eviter de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
+* Éviter l’exposition au soleil 4 semaines avant et 4 semaines après la procédure
 
-Les traitements au laser sont devenus une procédure ordinaire de retrait de nombreux types de lésions vasculaires, notamment les hémangiomes, les malformations vasculaires comme les taches de vin, les télangiectasies, les lacs veineux et les angiomes.
+Avec mon appareil de dernière génération, l’épilation permanente ou de longue durée est plus efficace que jamais. Le laser, permettent d’éliminer les poils de façon durable, quelle que soit leur localisation sur le visage ou le corps.  
+   
+ Grâce aux dernières avancées technologiques, il est possible maintenant d’épiler tous les types de peau, en toute sécurité. Bien dosées les séances ne laissent que de discrètes rougeurs pendant 2 h, semblables à celles d’une épilation à la cire.
 
-La majorité des varicosités inesthétiques des jambes se traitent par sclérothérapie ou par lasers. La combinaison équilibrée de ces 2 technique me permet d'obturer durablement les vaisseaux sanguins inesthétiques.
+Le succès du traitement de réduction des poils dépend surtout de la peau et du type de poil du patient, mais aussi des compétences et de la maîtrise du traitement du praticien. La plupart des patients peut s'attendre à une réduction importante des poils indésirables, et toute pousse ultérieure des poils sera généralement plus fine et clairsemée, et bien moins prononcée qu'avant.
 
-La sclérothérapie repose sur l’injection par aiguilles fines de petit calibre d’un produit sclérosant dans les varices. Le principe d’action de ce produit réside dans ses propriétés d’obstruction du calibre des vaisseaux. Les varices ainsi bouchées, qui n’ont pas d’utilité physiologique, sont progressivement éliminées par l’organisme et permettent de rendre aux zones du corps traitées un aspect esthétique plus favorable
-
-Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profondeur de 5-6 mm pour permettre des traitements très efficaces. L’impulsion lumineuse coagule le sang dans la veine et détruit ainsi la varicosité sans lésion cutanée ni complication.
+Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à raison d’une séance toutes les 4 à 6 semaines. Les poils ne poussent pas tous en même temps, mais par générations successives et seuls les poils adultes peuvent être détruits.
 
 ### [Prendre rendez-vous]()
