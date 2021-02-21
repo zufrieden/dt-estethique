@@ -440,7 +440,7 @@ blockquote::before {
 .box-cta-action{
   margin: 1em 0;
 }
-@media (min-width: 45em) {
+@media (min-width: 40em) {
   .box-cta{
     margin-top: 0;
   }
