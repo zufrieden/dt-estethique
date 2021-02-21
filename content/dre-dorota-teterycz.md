@@ -5,7 +5,7 @@ date: 2020-11-22T12:34:44.000+01:00
 ---
 # Dre Dorota Teterycz
 
-**_Bloc avec sa promesse et son positionnement et donner l’accent sur l’activité du cabinet de médecine esthétique._**
+**_Ses promesse et son positionnement et donner l’accent sur l’activité du cabinet de médecine esthétique. La sécurité apportée en tant que médecin diplômée et expérimentée._**
 
 Fondatrice du centre Esthétique, la Dre Dorota Teterycz occupe depuis octobre 2017 le poste de médecin-cheffe au sein du service de chirurgie des Établissements Hospitaliers du Nord Vaudois. Elle est responsable du [Centre yverdonnois d'obésité et de chirurgie bariatrique](https://www.ehnv.ch/etablissements/centre-dobesite-et-de-chirurgie-bariatrique-cyocb) (CYOCB) et assume également un poste de médecin consultante au [service de chirurgie viscérale](https://www.chuv.ch/fr/chirurgie-viscerale/chv-home/) des Hôpitaux Universitaires de Genève (HUG).
 
