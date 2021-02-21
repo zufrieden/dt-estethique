@@ -181,7 +181,7 @@ Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profonde
 
 Avec mon appareil de dernière génération, l’épilation permanente ou de longue durée est plus efficace que jamais. Le laser, permettent d’éliminer les poils de façon durable, quelle que soit leur localisation sur le visage ou le corps.  
    
- Grâce aux dernières avancées technologiques, il est possible maintenant d’épiler tous les types de peau, en toute sécurité. Bien dosées les séances ne laissent que de discrètes rougeurs pendant 2 h, semblables à celles d’une épilation à la cire.
+Grâce aux dernières avancées technologiques, il est possible maintenant d’épiler tous les types de peau, en toute sécurité. Bien dosées les séances ne laissent que de discrètes rougeurs pendant 2 h, semblables à celles d’une épilation à la cire.
 
 Le succès du traitement de réduction des poils dépend surtout de la peau et du type de poil du patient, mais aussi des compétences et de la maîtrise du traitement du praticien. La plupart des patients peut s'attendre à une réduction importante des poils indésirables, et toute pousse ultérieure des poils sera généralement plus fine et clairsemée, et bien moins prononcée qu'avant.
 
