@@ -342,11 +342,12 @@ Le chauffage intense et contrôlé des tissus de surface stimule le remodelage d
 
 ### [Prendre rendez-vous]()
 
-## **Sculpter et raffermir la peau avec la techologie TightSculpting®**
+## **Améliorer la qualité de son sommeil avec la méthode Nightlase**
 
 #### Objectifs 
 
-* Lifting du visage non chirurgical et sans toxine
+* Réduit les effets de l'apnée du sommeil 
+* Diminuer l'amplitude du ronflement
 
 #### Effets 
 
