@@ -351,11 +351,11 @@ Le chauffage intense et contrôlé des tissus de surface stimule le remodelage d
 
 #### Effets 
 
-* ?
+* 3 à 4 mois
 
 #### Séance 
 
-* 6 séances entre 45 et 60 minutes 
+* 6 séances de 45 à 60 minutes
 
 #### Coûts 
 
@@ -363,7 +363,7 @@ Le chauffage intense et contrôlé des tissus de surface stimule le remodelage d
 
 #### Conseils
 
-* Éviter le sport pendant 24 heures
+* Nécessité d’une consultation ORL avant la procédure
 
 C’est un traitement laser non invasif à double longueur d'onde unique pour sculpter et raffermir la peau sur toutes les zones du corps. Les modes d'administration exclusifs sont utilisés de concert pour la destruction hyperthermique des adipocytes et le remodelage du collagène avec des résultats exceptionnels.
 
