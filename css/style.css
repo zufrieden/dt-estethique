@@ -206,7 +206,8 @@ header nav a::after{
   line-height: 32px;
   position: absolute;
   bottom:-12px;
-  left:50%;
+  margin-left: -4px;
+  left: 50%;
   opacity: 0;
   transition-timing-function: ease-in-out;
   transition-property: opacity, color;
@@ -286,13 +287,14 @@ h4, .h4 {
 }
 h5, .h5{
   font-family: Montserrat,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
-  font-size: calc(0.6em + 1vw);
-  font-size: -webkit-calc(60% + 1vw);
+  font-size: calc(0.5em + 1vw);
+  font-size: -webkit-calc(50% + 1vw);
   line-height: 1.3em;
   font-weight: 600;
   margin-top: 0;
   margin-bottom: 0;
   text-transform: uppercase;
+  color: var(--cuivre);
 }
 
 .center{
@@ -312,7 +314,7 @@ p + p, p + ul, ul + p, h2 + p, h3 + ol, h3 + ul, h2 + ol, h2 + ul{
 p + h2, p + h3,p + h4, p + h5{
   margin-top: 1.4em;
 }
-h1 + h2, h2 + h2, h2 + h3, h5 + h3 , h3 + h4, h4 + h5{
+h1 + h2, h2 + h2, h2 + h3, h5 + h3 , h3 + h4, h4 + h5, h3 + h5{
   margin-top: 1.2em;
 }
 ul, ol{
@@ -363,6 +365,14 @@ mark{
 .button:active, button:active{
   box-shadow: -3px -3px 0px var(--nacre);
 }
+.button-block{
+  display: inline-block;
+}
+@media (max-width: 30em) { 
+  .button{
+    display: block;
+  }
+}
 
 /* Quotes */
 blockquote{
@@ -411,6 +421,49 @@ blockquote::before {
   width: 100%;
 }
 
+
+/* box CTA */
+.box-cta{
+  margin-top: 4em;
+}
+.box-cta-content{
+  background-color: var(--nacre50);
+  padding: 1.5em;
+}
+.box-cta-img{
+  margin-top: -3em;
+  margin-bottom: 2em;
+  float: left;
+  width: 80vw;
+  margin-right: 20vw;
+}
+.box-cta-action{
+  margin: 1em 0;
+}
+@media (min-width: 45em) {
+  .box-cta{
+    margin-top: 0;
+  }
+  .box-cta-content{
+    margin-left: 4em;
+  }
+  .box-cta-img{
+    margin-top: 1em;
+    margin-right: 3em;
+    max-width: 20vw;
+    min-width: 15em;
+  }
+  .box-cta-action{
+  }  
+}
+
+
+/* inverted */
+.inverted{
+  background-color: var(--minuit);
+  color: var(--nacre);
+}
+
 /* FOOTER */
 footer{
   background-color: var(--nacre50);
@@ -450,6 +503,7 @@ footer a::before{
   footer a{
     display: inline-block;
     padding-left: 3em;
+    text-decoration: none;
   }
 }
 
