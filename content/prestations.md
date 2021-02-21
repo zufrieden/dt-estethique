@@ -24,9 +24,11 @@ Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'
 * Bloquer l’hypersudation (transpiration excessive) des aisselles et d’autres régions du corps
 * Traiter les grincements de dents (bruxisme)
 
-#### Effet
+#### Séance 
 
-#### Durée 
+Entre x et x séances de 10 à 30 minutes.  CHF xx.- la séance.
+
+#### Effet 
 
 #### Coûts 
 
