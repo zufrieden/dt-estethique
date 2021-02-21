@@ -5,67 +5,30 @@ date: 2020-11-22T11:34:44.000+00:00
 ---
 ## **Prestations**
 
-La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sérénité et sans les contraintes de la chirurgie plastique. 
+La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sérénité et sans les contraintes de la chirurgie plastique.
 
-Plus efficace que les soins esthétiques, on vous dira que vous resplendissez, mais sans savoir pourquoi. 
+Plus efficace que les soins esthétiques, on vous dira que vous resplendissez, mais sans savoir pourquoi.
 
 Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'au soin délivré, l'ensemble des gestes médicaux sont réalisés exclusivement par la [Dre Dorota Teterycz](/dre-dorota-teterycz "Dre Dorota Teterycz").
 
-## **Les nombreuses vertus du Botox**
-
-#### Objectifs 
-
-* Prévention du vieillissement 
-* Obtenir une apparence fraîche
-* Corriger l’effet des paralysies faciales
-* Atténuer les rides
-* Relever les sourcils et ouvrir le regard
-* Atténuer l’aspect peau d’orange du menton
-* Bloquer l’hypersudation (transpiration excessive) des aisselles et d’autres régions du corps
-* Traiter les grincements de dents (bruxisme)
-
-#### Effets 
-
-* Entre 3 et 6 mois. Dépend des zones traitées. L'effet du traitement commence 2 à 5 jours après l'injection et est au maximum 15 jours après l'injection.
-
-#### Séance 
-
-* Entre x et x séances de 10 à 30 minutes.  
-
-#### Coûts 
-
-* CHF xx.- la séance.
-
-#### Conseils
-
-* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement.
-
-La toxine botulique (Botox) peut être utilisée pour répondre à de nombreux objectifs. Bien souvent négligée, l’indication du Botox est certainement la meilleure pour la prévention du vieillissement. Chez certain(e)s patient(e)s apparaissent très tôt des rides fines, qui se majorent rapidement. Commencer le traitement dès l’apparition de ces rides est souvent un bon choix à long terme soit en moyenne vers 30 ans. Car en relaxant la contraction musculaire (en mettant en pause certains muscles) de manière temporaire et réversible, les rides d’expression seront effacées et le vieillissement sera sérieusement ralenti dans les zones traitées. En fonction de la dose injectée on peut atténuer les rides sans figer l’expression. Un traitement bien fait ne doit pas se voir.
-
-Son effet est limité dans le temps. Il est recommandé de renouveler les injections deux à trois fois par année.
-
-La toxine botulique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter la toxine botulique de type A.
-
-### [Prendre rendez-vous]()
-
 ## **Combler ses rides avec l’acide hyaluronique**
 
-#### Objectifs 
+#### Objectifs
 
 * Combler des rides
-* Redéfinir les contours du visage 
+* Redéfinir les contours du visage
 * Rajeunir le décolleté et les mains
 * Restituer du volume (lèvres, redressement du nez, cernes, pommettes)
 
-#### Effets 
+#### Effets
 
 * Entre 6 et 12 mois
 
-#### Séance 
+#### Séance
 
 * Entre x et x séances de 10 et 30 minutes
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance.
 
@@ -83,23 +46,60 @@ L’acide hyluronique est un médicament dont l’utilisation comporte de potent
 
 ### [Prendre rendez-vous]()
 
+## **Les nombreuses vertus du Botox**
+
+#### Objectifs
+
+* Prévention du vieillissement
+* Obtenir une apparence fraîche
+* Corriger l’effet des paralysies faciales
+* Atténuer les rides
+* Relever les sourcils et ouvrir le regard
+* Atténuer l’aspect peau d’orange du menton
+* Bloquer l’hypersudation (transpiration excessive) des aisselles et d’autres régions du corps
+* Traiter les grincements de dents (bruxisme)
+
+#### Effets
+
+* Entre 3 et 6 mois. Dépend des zones traitées. L'effet du traitement commence 2 à 5 jours après l'injection et est au maximum 15 jours après l'injection.
+
+#### Séance
+
+* Entre x et x séances de 10 à 30 minutes.
+
+#### Coûts
+
+* CHF xx.- la séance.
+
+#### Conseils
+
+* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement.
+
+La toxine botulique (Botox) peut être utilisée pour répondre à de nombreux objectifs. Bien souvent négligée, l’indication du Botox est certainement la meilleure pour la prévention du vieillissement. Chez certain(e)s patient(e)s apparaissent très tôt des rides fines, qui se majorent rapidement. Commencer le traitement dès l’apparition de ces rides est souvent un bon choix à long terme soit en moyenne vers 30 ans. Car en relaxant la contraction musculaire (en mettant en pause certains muscles) de manière temporaire et réversible, les rides d’expression seront effacées et le vieillissement sera sérieusement ralenti dans les zones traitées. En fonction de la dose injectée on peut atténuer les rides sans figer l’expression. Un traitement bien fait ne doit pas se voir.
+
+Son effet est limité dans le temps. Il est recommandé de renouveler les injections deux à trois fois par année.
+
+La toxine botulique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter la toxine botulique de type A.
+
+### [Prendre rendez-vous]()
+
 ## **Prévenir le vieillissement avec le MicroNeedeling**
 
-#### Objectifs 
+#### Objectifs
 
-* Améliorer l’aspect et la texture de la peau 
+* Améliorer l’aspect et la texture de la peau
 * Procurer un teint plus éclatant et uniforme
 * Densifier et raffermir l’épiderme
 
-#### Effets 
+#### Effets
 
 * 4 mois
 
-#### Séance 
+#### Séance
 
 * 3 séances de 30 à 45 minutes puis puis renouveler 3 fois par année
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance
 
@@ -127,19 +127,19 @@ Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois
 
 ## **Traiter les varicosités avec le laser combiné à la sclérothérapie**
 
-#### Objectifs 
+#### Objectifs
 
 * Traitement des varicosités disgracieuses des jambes et d’autres lésions vasculaires
 
-#### Effets 
+#### Effets
 
 * Permanent
 
-#### Séance 
+#### Séance
 
 * Entre 2 et 3 séances de 20 à 45 minutes
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance
 
@@ -159,19 +159,19 @@ Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profonde
 
 ## **L’épilation définitive grâce au laser**
 
-#### Objectifs 
+#### Objectifs
 
 * Épilation définitive
 
-#### Effets 
+#### Effets
 
 * Permanent
 
-#### Séance 
+#### Séance
 
 * Entre x et x séances de 10 à 120 minutes
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance de xx minutes
 
@@ -179,8 +179,8 @@ Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profonde
 
 * Éviter l’exposition au soleil 4 semaines avant et 4 semaines après la procédure
 
-Avec mon appareil de dernière génération, l’épilation permanente ou de longue durée est plus efficace que jamais. Le laser, permettent d’éliminer les poils de façon durable, quelle que soit leur localisation sur le visage ou le corps.  
-   
+Avec mon appareil de dernière génération, l’épilation permanente ou de longue durée est plus efficace que jamais. Le laser, permettent d’éliminer les poils de façon durable, quelle que soit leur localisation sur le visage ou le corps.
+
 Grâce aux dernières avancées technologiques, il est possible maintenant d’épiler tous les types de peau, en toute sécurité. Bien dosées les séances ne laissent que de discrètes rougeurs pendant 2 h, semblables à celles d’une épilation à la cire.
 
 Le succès du traitement de réduction des poils dépend surtout de la peau et du type de poil du patient, mais aussi des compétences et de la maîtrise du traitement du praticien. La plupart des patients peut s'attendre à une réduction importante des poils indésirables, et toute pousse ultérieure des poils sera généralement plus fine et clairsemée, et bien moins prononcée qu'avant.
@@ -191,19 +191,19 @@ Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à ra
 
 ## **Effacer des lésions pigmentées avec le laser**
 
-#### Objectifs 
+#### Objectifs
 
 * Élimination des lésions pigmentées
 
-#### Effets 
+#### Effets
 
 * Permanent
 
-#### Séance 
+#### Séance
 
-* Entre 2 et 3 séances de 10 à 30 minutes 
+* Entre 2 et 3 séances de 10 à 30 minutes
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance de xx minutes
 
@@ -229,19 +229,19 @@ Ces particules sont ensuite éliminées par le système immunitaire du corps, ca
 
 ## **Lisser votre peau avec le laser**
 
-#### Objectifs 
+#### Objectifs
 
 * Lissage cutané
 
-#### Effets 
+#### Effets
 
 * Entre 3 et 6 mois
 
-#### Séance 
+#### Séance
 
 * Entre x et x séances de 10 à 30 minutes
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance de xx minutes
 
@@ -273,19 +273,19 @@ Pas d'aiguilles, pas de délai de récupération
 
 ## **Rajeunir votre peau avec la méthode Fotona4D®**
 
-#### Objectifs 
+#### Objectifs
 
 * Lifting du visage non chirurgical et sans toxine
 
-#### Effets 
+#### Effets
 
 * ?
 
-#### Séance 
+#### Séance
 
 * 4 à 6 séances de 45 à 60 minutes
 
-#### Coûts 
+#### Coûts
 
 * CHF xx.- la séance de xx minutes
 
@@ -310,21 +310,21 @@ Grâce aux capacités étendues des longueurs d'onde Nd: YAG et Er: YAG, le lase
 
 ## **Sculpter et raffermir la peau avec la techologie TightSculpting®**
 
-#### Objectifs 
+#### Objectifs
 
 * Lifting du visage non chirurgical et sans toxine
 
-#### Effets 
+#### Effets
 
 * ?
 
-#### Séance 
+#### Séance
 
-* 6 séances entre 45 et 60 minutes 
+* 6 séances entre 45 et 60 minutes
 
-#### Coûts 
+#### Coûts
 
-* CHF xx.- la séance 
+* CHF xx.- la séance
 
 #### Conseils
 
@@ -344,22 +344,22 @@ Le chauffage intense et contrôlé des tissus de surface stimule le remodelage d
 
 ## **Améliorer la qualité de son sommeil avec la méthode Nightlase**
 
-#### Objectifs 
+#### Objectifs
 
-* Réduit les effets de l'apnée du sommeil 
+* Réduit les effets de l'apnée du sommeil
 * Diminuer l'amplitude du ronflement
 
-#### Effets 
+#### Effets
 
 * 3 à 4 mois
 
-#### Séance 
+#### Séance
 
 * 6 séances de 45 à 60 minutes
 
-#### Coûts 
+#### Coûts
 
-* CHF xx.- la séance 
+* CHF xx.- la séance
 
 #### Conseils
 
