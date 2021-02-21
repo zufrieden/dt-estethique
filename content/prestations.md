@@ -52,22 +52,19 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 #### Objectifs 
 
-* Prévention du vieillissement 
-* Obtenir une apparence fraîche
-* Corriger l’effet des paralysies faciales
-* Atténuer les rides
-* Relever les sourcils et ouvrir le regard
-* Atténuer l’aspect peau d’orange du menton
-* Bloquer l’hypersudation (transpiration excessive) des aisselles et d’autres régions du corps
-* Traiter les grincements de dents (bruxisme)
+* Combler des rides
+* Redéfinir les contours du visage 
+* Rajeunir le décolleté et les mains
+* Restituer du volume (lèvres, redressement du nez, cernes, pommettes)
 
 #### Effets 
 
-* Entre 3 et 6 mois. Dépend des zones traitées. L'effet du traitement commence 2 à 5 jours après l'injection et est au maximum 15 jours après l'injection.
+* Effet immédiat   
+  Entre 6 et 12 mois
 
 #### Séance 
 
-* Entre x et x séances de 10 à 30 minutes.  
+* Entre x et x séances de 10 et 30 minutes
 
 #### Coûts 
 
@@ -75,12 +72,14 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 #### Conseils
 
-* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement.
+* Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures
 
-La toxine botulique (Botox) peut être utilisée pour répondre à de nombreux objectifs. Bien souvent négligée, l’indication du Botox est certainement la meilleure pour la prévention du vieillissement. Chez certain(e)s patient(e)s apparaissent très tôt des rides fines, qui se majorent rapidement. Commencer le traitement dès l’apparition de ces rides est souvent un bon choix à long terme soit en moyenne vers 30 ans. Car en relaxant la contraction musculaire (en mettant en pause certains muscles) de manière temporaire et réversible, les rides d’expression seront effacées et le vieillissement sera sérieusement ralenti dans les zones traitées. En fonction de la dose injectée on peut atténuer les rides sans figer l’expression. Un traitement bien fait ne doit pas se voir.
+Contrairement au "traitement par le botox" qui agit sur la musculature du visage, l'acide hyaluronique est un produit de comblement des rides. Il remplace la masse graisseuse sous cutanée, qui a tendance à disparaître avec l'âge. Il retient l'eau sous la peau comme le ferait une éponge, et redonne ainsi du volume aux traits creusés.
 
-Son effet est limité dans le temps. Il est recommandé de renouveler les injections deux à trois fois par année.
+Acide hyaluronique conviennent au traitement des rides profondes (par ex. sillons nasogéniens) ou des petites rides déjà fixées (par ex. rides des lèvres, rides des joues). L'acide hyaluronique est un composant naturel des tissus sous-cutanés. Il se combine avec l'eau dans les tissus. Dans la peau, la concentration d'acide hyaluronique diminue avec l'âge. Le résultat est une peau moins élastique et sujette aux rides. Les fillers sont des substances qui sont injectées dans la peau afin de corriger une perte de substance dû au processus de vieillissement. Ils sont le plus souvent utilisés pour "combler" les rides. Acide Hyaluronique est particulièrement indiqué pour l'injection de rides profondes (par ex. sillons nasogéniens) ainsi que pour le traitement de petites rides déjà fixées (par ex. rides des joues, rides des lèvres). Il est également utilisés pour la restitution de volume (lèvres, redressement du nez, cernes, pommettes). On s’en sert pour hydrater la peau, redéfinir les contours du visage et rajeunir le décolleté et les mains. Comme les injections de toxine botulique auxquelles il se combine aisément, son action n’est pas permanente: il se résorbe naturellement au bout de 6 à 12 mois, ce qui implique de renouveler les injections.
 
-La toxine botulique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter la toxine botulique de type A.
+J’utilise l’acide hyaluronique qui contient un anesthésique, ce qui rend le geste pratiquement indolore. L’acide hyaluronique est naturellement synthétisé par le corps humain: il est donc bien toléré et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.
+
+L’acide hyluronique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter l’acide hyaluronique.
 
 ### [Prendre rendez-vous]()
