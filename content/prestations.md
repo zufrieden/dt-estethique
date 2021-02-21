@@ -11,17 +11,13 @@ Vos objectifs (sur une autre page)
 
 ...
 
-La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sécurité et sans les contraintes de la chirurgie plastique.
-
-Toutes les prestations sont réalisées par la [Dre Dorota Teterycz](/dre-dorota-teterycz "Dre Dorota Teterycz").
-
 ## **Prestations**
 
-Nul besoin de prendre congé. Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique.
+La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sérénité et sans les contraintes de la chirurgie plastique. 
 
-Des interventions médicales à vocation esthétique pour embellir, rajeunir ou prévenir les effets du vieillissement.
+Plus efficace que les soins esthétiques, on vous dira que vous resplendissez, mais sans savoir pourquoi. 
 
-On vous dira que vous resplendissez, mais sans savoir pourquoi.
+Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'au soin délivré, l'ensemble des gestes médicaux sont réalisés exclusivement par la [Dre Dorota Teterycz](/dre-dorota-teterycz "Dre Dorota Teterycz").
 
 ### **Les nombreuses vertus du Botox**
 
@@ -36,10 +32,10 @@ On vous dira que vous resplendissez, mais sans savoir pourquoi.
 * Bloquer l’hypersudation (transpiration excessive) des aisselles et d’autres régions du corps
 * Traiter les grincements de dents (bruxisme)
 
-#### Méthode 
-
-#### Coûts et durée 
-
 #### Effet
+
+#### Durée 
+
+#### Coûts 
 
 #### Conseil
