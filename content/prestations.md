@@ -13,8 +13,6 @@ Vos objectifs (sur une autre page)
 
 La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sécurité et sans les contraintes de la chirurgie plastique.
 
-Une ta
-
 Toutes les prestations sont réalisées par la [Dre Dorota Teterycz](/dre-dorota-teterycz "Dre Dorota Teterycz").  
 
 **Nos prestations**
