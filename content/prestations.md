@@ -226,3 +226,41 @@ La lumière laser est transformée en ondes photoacoustiques qui décomposent m�
 Ces particules sont ensuite éliminées par le système immunitaire du corps, car les macro-phages de la peau éliminent l'excès de pigment de la zone.
 
 ### [Prendre rendez-vous]()
+
+## **Effacer des lésions pigmentées avec le laser**
+
+#### Objectifs 
+
+* Élimination des lésions pigmentées
+
+#### Effets 
+
+* Permanent
+
+#### Séance 
+
+* Entre 2 et 3 séances de 10 à 30 minutes 
+
+#### Coûts 
+
+* CHF xx.- la séance de xx minutes
+
+#### Conseils
+
+* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement
+
+L'élimination au laser des lésions pigmentées fonctionne en détruisant le pigment de la peau sans avoir besoin d'une excision. Ce processus est terminé en 3 étapes simples:
+
+Étape 1 - ABSORPTION DE LA LUMIÈRE:
+
+Le laser produit de courtes impulsions nanosecondes de lumière intense qui passent sans danger à travers les couches supérieures de la peau pour être sélectivement absorbées par le pigment mélanique dans la lésion.
+
+Étape 2 - RUPTURE DU PIGMENT:
+
+La lumière laser est transformée en ondes photoacoustiques qui décomposent mécaniquement le pigment mélanique en particules plus petites.
+
+Étape 3 - ENLÈVEMENT DES PIGMENTS:
+
+Ces particules sont ensuite éliminées par le système immunitaire du corps, car les macro-phages de la peau éliminent l'excès de pigment de la zone.
+
+### [Prendre rendez-vous]()
