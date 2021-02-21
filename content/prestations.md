@@ -125,7 +125,7 @@ Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois
 
 ### [Prendre rendez-vous]()
 
-### **Prévenir le vieillissement avec le MicroNeedeling**
+### **Traiter les varicosités avec le laser combiné à la sclérothérapie**
 
 #### Objectifs 
 
