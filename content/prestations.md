@@ -129,17 +129,15 @@ Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois
 
 #### Objectifs 
 
-* Améliorer l’aspect et la texture de la peau 
-* Procurer un teint plus éclatant et uniforme
-* Densifier et raffermir l’épiderme
+* Traitement des varicosités disgracieuses des jambes et d’autres lésions vasculaires
 
 #### Effets 
 
-* 4 mois
+* Permanent
 
 #### Séance 
 
-* 3 séances de 30 à 45 minutes puis puis renouveler 3 fois par année
+* Entre 2 et 3 séances de 20 à 45 minutes
 
 #### Coûts 
 
@@ -147,22 +145,14 @@ Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois
 
 #### Conseils
 
-* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement. Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
+* Éviter l’exposition ai soleil pendant 2 semaines après le traitement. Eviter de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
 
-La technique de MicroNeedeling est idéale en prévention du vieillissement. Elle va améliorer l’aspect et la texture de la peau. Procurer un teint plus éclatant et uniforme. Il est idéal pour densifier et raffermir l’épiderme.
+Les traitements au laser sont devenus une procédure ordinaire de retrait de nombreux types de lésions vasculaires, notamment les hémangiomes, les malformations vasculaires comme les taches de vin, les télangiectasies, les lacs veineux et les angiomes.
 
-En stimulant toutes les fonctions cutanées, il va booster la régénération de la peau, la production naturelle de collagène et d’élastine, ces cellules sont responsables de sa qualité.
+La majorité des varicosités inesthétiques des jambes se traitent par sclérothérapie ou par lasers. La combinaison équilibrée de ces 2 technique me permet d'obturer durablement les vaisseaux sanguins inesthétiques.
 
-Les micro-perforations vont permettre d’activer le processus de cicatrisation de l’épiderme, favorisant ainsi le renouvellement cellulaire, réactiver les fibroblastes et redonner vitalité. C’est une technique parfaite pour ralentir les effets de l’âge.
+La sclérothérapie repose sur l’injection par aiguilles fines de petit calibre d’un produit sclérosant dans les varices. Le principe d’action de ce produit réside dans ses propriétés d’obstruction du calibre des vaisseaux. Les varices ainsi bouchées, qui n’ont pas d’utilité physiologique, sont progressivement éliminées par l’organisme et permettent de rendre aux zones du corps traitées un aspect esthétique plus favorable
 
-Les perforations pratiquées sont « microscopiques » : elles ne causent ni lésions, ni marques, ni douleur. Leur seul but est de provoquer le renouvellement du tissu cutané en stimulant la peau de façon mécanique.
-
-En plus de provoquer mécaniquement le renouvellement de la peau, les micro-perforations permettent l’application de sérum aux principes actifs naturels.
-
-Particulièrement efficace pour l’éclaircissement du teint par exemple. On observe aussi un effet tenseur et une régularisation du teint sur les peaux plus matures. Idéal pour les pores dilatées. Les fumeurs retrouvent l’éclat d’une peau saine.
-
-La séance dure environ 30 minutes. Elle est confortable même sur les peaux sensibles. Une légère rougeur peut persister quelques heures après la séance. Le maquillage est possible dès le lendemain.
-
-Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois séances initiales, puis renouveler entretien 3x par année.
+Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profondeur de 5-6 mm pour permettre des traitements très efficaces. L’impulsion lumineuse coagule le sang dans la veine et détruit ainsi la varicosité sans lésion cutanée ni complication.
 
 ### [Prendre rendez-vous]()
