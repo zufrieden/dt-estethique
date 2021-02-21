@@ -209,14 +209,20 @@ Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à ra
 
 #### Conseils
 
-* Éviter l’exposition au soleil 4 semaines avant et 4 semaines après la procédure
+* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement
 
-Avec mon appareil de dernière génération, l’épilation permanente ou de longue durée est plus efficace que jamais. Le laser, permettent d’éliminer les poils de façon durable, quelle que soit leur localisation sur le visage ou le corps.  
-   
-Grâce aux dernières avancées technologiques, il est possible maintenant d’épiler tous les types de peau, en toute sécurité. Bien dosées les séances ne laissent que de discrètes rougeurs pendant 2 h, semblables à celles d’une épilation à la cire.
+L'élimination au laser des lésions pigmentées fonctionne en détruisant le pigment de la peau sans avoir besoin d'une excision. Ce processus est terminé en 3 étapes simples:
 
-Le succès du traitement de réduction des poils dépend surtout de la peau et du type de poil du patient, mais aussi des compétences et de la maîtrise du traitement du praticien. La plupart des patients peut s'attendre à une réduction importante des poils indésirables, et toute pousse ultérieure des poils sera généralement plus fine et clairsemée, et bien moins prononcée qu'avant.
+Étape 1 - ABSORPTION DE LA LUMIÈRE:
 
-Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à raison d’une séance toutes les 4 à 6 semaines. Les poils ne poussent pas tous en même temps, mais par générations successives et seuls les poils adultes peuvent être détruits.
+Le laser produit de courtes impulsions nanosecondes de lumière intense qui passent sans danger à travers les couches supérieures de la peau pour être sélectivement absorbées par le pigment mélanique dans la lésion.
+
+Étape 2 - RUPTURE DU PIGMENT:
+
+La lumière laser est transformée en ondes photoacoustiques qui décomposent mécaniquement le pigment mélanique en particules plus petites.
+
+Étape 3 - ENLÈVEMENT DES PIGMENTS:
+
+Ces particules sont ensuite éliminées par le système immunitaire du corps, car les macro-phages de la peau éliminent l'excès de pigment de la zone.
 
 ### [Prendre rendez-vous]()
