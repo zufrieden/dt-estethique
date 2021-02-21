@@ -156,3 +156,35 @@ La sclérothérapie repose sur l’injection par aiguilles fines de petit calibr
 Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profondeur de 5-6 mm pour permettre des traitements très efficaces. L’impulsion lumineuse coagule le sang dans la veine et détruit ainsi la varicosité sans lésion cutanée ni complication.
 
 ### [Prendre rendez-vous]()
+
+## **Traiter les varicosités avec le laser combiné à la sclérothérapie**
+
+#### Objectifs 
+
+* Traitement des varicosités disgracieuses des jambes et d’autres lésions vasculaires
+
+#### Effets 
+
+* Permanent
+
+#### Séance 
+
+* Entre 2 et 3 séances de 20 à 45 minutes
+
+#### Coûts 
+
+* CHF xx.- la séance
+
+#### Conseils
+
+* Éviter l’exposition ai soleil pendant 2 semaines après le traitement. Eviter de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
+
+Les traitements au laser sont devenus une procédure ordinaire de retrait de nombreux types de lésions vasculaires, notamment les hémangiomes, les malformations vasculaires comme les taches de vin, les télangiectasies, les lacs veineux et les angiomes.
+
+La majorité des varicosités inesthétiques des jambes se traitent par sclérothérapie ou par lasers. La combinaison équilibrée de ces 2 technique me permet d'obturer durablement les vaisseaux sanguins inesthétiques.
+
+La sclérothérapie repose sur l’injection par aiguilles fines de petit calibre d’un produit sclérosant dans les varices. Le principe d’action de ce produit réside dans ses propriétés d’obstruction du calibre des vaisseaux. Les varices ainsi bouchées, qui n’ont pas d’utilité physiologique, sont progressivement éliminées par l’organisme et permettent de rendre aux zones du corps traitées un aspect esthétique plus favorable
+
+Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profondeur de 5-6 mm pour permettre des traitements très efficaces. L’impulsion lumineuse coagule le sang dans la veine et détruit ainsi la varicosité sans lésion cutanée ni complication.
+
+### [Prendre rendez-vous]()
