@@ -102,7 +102,7 @@ title="Prendre rendez-vous"
 link="#"
 link_label="Prendre rendez-vous"
 >}}
-Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi repudiandae blanditiis? Obcaecati tempore voluptatem voluptas natus, nostrum libero vero qui ullam distinctio.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi.
 {{< /box-cta >}}
 
 
@@ -114,7 +114,7 @@ title="Prendre rendez-vous"
 link="#"
 link_label="Prendre rendez-vous"
 >}}
-Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi repudiandae blanditiis? Obcaecati tempore voluptatem voluptas natus, nostrum libero vero qui ullam distinctio.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi.
 {{< /box-cta >}}
 
 
