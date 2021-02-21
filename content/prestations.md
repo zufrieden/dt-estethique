@@ -83,3 +83,39 @@ J’utilise l’acide hyaluronique qui contient un anesthésique, ce qui rend le
 L’acide hyluronique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter l’acide hyaluronique.
 
 ### [Prendre rendez-vous]()
+
+### **Combler ses rides avec l’acide hyaluronique**
+
+#### Objectifs 
+
+* Combler des rides
+* Redéfinir les contours du visage 
+* Rajeunir le décolleté et les mains
+* Restituer du volume (lèvres, redressement du nez, cernes, pommettes)
+
+#### Effets 
+
+* Effet immédiat   
+  Entre 6 et 12 mois
+
+#### Séance 
+
+* Entre x et x séances de 10 et 30 minutes
+
+#### Coûts 
+
+* CHF xx.- la séance.
+
+#### Conseils
+
+* Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures
+
+Contrairement au "traitement par le botox" qui agit sur la musculature du visage, l'acide hyaluronique est un produit de comblement des rides. Il remplace la masse graisseuse sous cutanée, qui a tendance à disparaître avec l'âge. Il retient l'eau sous la peau comme le ferait une éponge, et redonne ainsi du volume aux traits creusés.
+
+Acide hyaluronique conviennent au traitement des rides profondes (par ex. sillons nasogéniens) ou des petites rides déjà fixées (par ex. rides des lèvres, rides des joues). L'acide hyaluronique est un composant naturel des tissus sous-cutanés. Il se combine avec l'eau dans les tissus. Dans la peau, la concentration d'acide hyaluronique diminue avec l'âge. Le résultat est une peau moins élastique et sujette aux rides. Les fillers sont des substances qui sont injectées dans la peau afin de corriger une perte de substance dû au processus de vieillissement. Ils sont le plus souvent utilisés pour "combler" les rides. Acide Hyaluronique est particulièrement indiqué pour l'injection de rides profondes (par ex. sillons nasogéniens) ainsi que pour le traitement de petites rides déjà fixées (par ex. rides des joues, rides des lèvres). Il est également utilisés pour la restitution de volume (lèvres, redressement du nez, cernes, pommettes). On s’en sert pour hydrater la peau, redéfinir les contours du visage et rajeunir le décolleté et les mains. Comme les injections de toxine botulique auxquelles il se combine aisément, son action n’est pas permanente: il se résorbe naturellement au bout de 6 à 12 mois, ce qui implique de renouveler les injections.
+
+J’utilise l’acide hyaluronique qui contient un anesthésique, ce qui rend le geste pratiquement indolore. L’acide hyaluronique est naturellement synthétisé par le corps humain: il est donc bien toléré et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.
+
+L’acide hyluronique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter l’acide hyaluronique.
+
+### [Prendre rendez-vous]()
