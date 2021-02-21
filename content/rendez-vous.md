@@ -5,6 +5,4 @@ date: 2020-11-22T12:34:44.000+01:00
 ---
 # Prenons rendez-vous
 
-Test lorem ipsum
-
-**Titre**
+Vous souhaitez bénéficier d’un soin ou en savoir plus sur une prestation ? N’hésitez pas à me contacter.
