@@ -48,7 +48,7 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 ### [Prendre rendez-vous]()
 
-### **Les nombreuses vertus du Botox**
+### **Combler ses rides avec l’acide hyaluronique**
 
 #### Objectifs 
 
