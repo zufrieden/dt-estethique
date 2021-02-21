@@ -11,7 +11,7 @@ Plus efficace que les soins esthétiques, on vous dira que vous resplendissez, m
 
 Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'au soin délivré, l'ensemble des gestes médicaux sont réalisés exclusivement par la [Dre Dorota Teterycz](/dre-dorota-teterycz "Dre Dorota Teterycz").
 
-### **Les nombreuses vertus du Botox**
+## **Les nombreuses vertus du Botox**
 
 #### Objectifs 
 
@@ -48,7 +48,7 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 ### [Prendre rendez-vous]()
 
-### **Combler ses rides avec l’acide hyaluronique**
+## **Combler ses rides avec l’acide hyaluronique**
 
 #### Objectifs 
 
@@ -83,7 +83,7 @@ L’acide hyluronique est un médicament dont l’utilisation comporte de potent
 
 ### [Prendre rendez-vous]()
 
-### **Prévenir le vieillissement avec le MicroNeedeling**
+## **Prévenir le vieillissement avec le MicroNeedeling**
 
 #### Objectifs 
 
@@ -125,7 +125,7 @@ Pour un effet optimal, il faut prévoir un intervalle de 28 jours pour les trois
 
 ### [Prendre rendez-vous]()
 
-### **Traiter les varicosités avec le laser combiné à la sclérothérapie**
+## **Traiter les varicosités avec le laser combiné à la sclérothérapie**
 
 #### Objectifs 
 
