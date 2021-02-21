@@ -188,3 +188,35 @@ Le succès du traitement de réduction des poils dépend surtout de la peau et d
 Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à raison d’une séance toutes les 4 à 6 semaines. Les poils ne poussent pas tous en même temps, mais par générations successives et seuls les poils adultes peuvent être détruits.
 
 ### [Prendre rendez-vous]()
+
+## **L’épilation définitive grâce au laser**
+
+#### Objectifs 
+
+* Épilation définitive
+
+#### Effets 
+
+* Permanent
+
+#### Séance 
+
+* Entre x et x séances de 10 à 120 minutes
+
+#### Coûts 
+
+* CHF xx.- la séance de xx minutes
+
+#### Conseils
+
+* Éviter l’exposition au soleil 4 semaines avant et 4 semaines après la procédure
+
+Avec mon appareil de dernière génération, l’épilation permanente ou de longue durée est plus efficace que jamais. Le laser, permettent d’éliminer les poils de façon durable, quelle que soit leur localisation sur le visage ou le corps.  
+   
+Grâce aux dernières avancées technologiques, il est possible maintenant d’épiler tous les types de peau, en toute sécurité. Bien dosées les séances ne laissent que de discrètes rougeurs pendant 2 h, semblables à celles d’une épilation à la cire.
+
+Le succès du traitement de réduction des poils dépend surtout de la peau et du type de poil du patient, mais aussi des compétences et de la maîtrise du traitement du praticien. La plupart des patients peut s'attendre à une réduction importante des poils indésirables, et toute pousse ultérieure des poils sera généralement plus fine et clairsemée, et bien moins prononcée qu'avant.
+
+Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à raison d’une séance toutes les 4 à 6 semaines. Les poils ne poussent pas tous en même temps, mais par générations successives et seuls les poils adultes peuvent être détruits.
+
+### [Prendre rendez-vous]()
