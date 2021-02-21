@@ -17,4 +17,6 @@ Toutes les prestations sont réalisées par la [Dre Dorota Teterycz](/dre-dorota
 
 **Nos prestations**
 
-Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique. ...
+Nul besoin de prendre congé. Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique. 
+
+Des interventions médicales à vocation esthétique pour embellir, rajeunir ou prévenir les effets du vieillissement. 
