@@ -365,14 +365,8 @@ Le chauffage intense et contrôlé des tissus de surface stimule le remodelage d
 
 * Nécessité d’une consultation ORL avant la procédure
 
-C’est un traitement laser non invasif à double longueur d'onde unique pour sculpter et raffermir la peau sur toutes les zones du corps. Les modes d'administration exclusifs sont utilisés de concert pour la destruction hyperthermique des adipocytes et le remodelage du collagène avec des résultats exceptionnels.
+La thérapie NightLase® de Fotona est un traitement au laser non invasif et aisé pour le patient, qui améliore la qualité de son sommeil. NightLase réduit les effets de l'apnée du sommeil et diminue l'amplitude du ronflement à l'aide d'un effet tenseur induit par laser en douceur, causé par une contraction de collagène dans le tissu de la muqueuse buccale.
 
-1ère étape:  
-Raffermissement profond de la peau et réduction de la graisse avec PIANO® pulse
-
-2ème étape:  
-Amélioration de la laxité de la surface cutanée avec SMOOTH® pulse
-
-Le chauffage intense et contrôlé des tissus de surface stimule le remodelage du collagène et initie la néocollagenèse. Les effets se traduisent par une amélioration globale de la laxité et de l'élasticité dans les zones de traitement.
+Un cycle complet de NightLase se compose de trois séances de traitement distinctes en l'espace de six semaines. Il s'avère que les résultats définitifs du traitement durent jusqu'à un an, et la thérapie peut être répétée.
 
 ### [Prendre rendez-vous]()
