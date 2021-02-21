@@ -189,11 +189,11 @@ Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à ra
 
 ### [Prendre rendez-vous]()
 
-## **L’épilation définitive grâce au laser**
+## **Effacer des lésions pigmentées avec le laser**
 
 #### Objectifs 
 
-* Épilation définitive
+* Élimination des lésions pigmentées
 
 #### Effets 
 
@@ -201,7 +201,7 @@ Pour obtenir une épilation durable, plusieurs séances sont nécessaires, à ra
 
 #### Séance 
 
-* Entre x et x séances de 10 à 120 minutes
+* Entre 2 et 3 séances de 10 à 30 minutes 
 
 #### Coûts 
 
