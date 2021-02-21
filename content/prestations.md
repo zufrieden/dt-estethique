@@ -270,3 +270,47 @@ Déclenche la synthèse de nouveau collagène
 Pas d'aiguilles, pas de délai de récupération
 
 ### [Prendre rendez-vous]()
+
+## **Rajeunir votre peau avec la méthode Fotona4D®**
+
+#### Objectifs 
+
+* Lifting du visage non chirurgical et sans toxine
+
+#### Effets 
+
+* ?
+
+#### Séance 
+
+* 4 à 6 séances de 45 à 60 minutes
+
+#### Coûts 
+
+* CHF xx.- la séance de xx minutes
+
+#### Conseils
+
+* Éviter l’exposition ai soleil pendant 2 semaines après le traitement
+
+Les développements récents de la technologie laser offrent maintenant une méthode plus durable et scientifiquement prouvée pour restaurer la beauté naturelle de la peau. Contrairement aux traitements traditionnels tels que la dermabrasion et les peelings chimiques, les caractéristiques uniques du resurfaçage cutané au laser permettent un contrôle plus précis et plus précis du processus de traitement.
+
+Le laser autorise un contrôle exact et précis de toute la procédure. Il assure une efficacité maximale d’ablation, laquelle peut être réglée avec précision d’un niveau d’ablation « froide » minimale à un niveau d’ablation thermique profonde, en fonction des résultats cliniques attendus.
+
+SmoothEye :
+
+Rafraichissement et raffermissement instantanés de la zone périoculaire  
+Stimule le remodelage du collagène et amorce la néocollagénèse  
+Peu ou pas de délai de récupération  
+Doux, rapide et non invasif  
+Sécurité et contrôle précis
+
+Liplase :
+
+Repulpage non invasif pour des lèvres plus pulpeuses sans produits injectables  
+Des lèvres plus pleines et plus lisses  
+Stimule le remodelage du collagène  
+Déclenche la synthèse de nouveau collagène  
+Pas d'aiguilles, pas de délai de récupération
+
+### [Prendre rendez-vous]()
