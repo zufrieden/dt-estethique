@@ -155,12 +155,12 @@ a:visited{
   display: block;
   width: 50vw;
   min-width: 250px;
-  max-width: 350px;
+  max-width: 300px;
 }
 .big-logo{
   display: none;
   width: 25vw;
-  min-width: 400px;
+  min-width: 300px;
   max-width: 500px;
 }
 #logo svg{
@@ -495,18 +495,17 @@ mark{
   background-position: 93% 50%;
   background-image: url("data:image/svg+xml;utf8,<svg width='26' height='24' viewBox='0 0 26 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M3.51514 12L22.606 12' stroke='%23EDDBC6' stroke-linecap='round'/><path d='M16.2427 18L22.6063 12L16.2427 6' stroke='%23EDDBC6' stroke-linecap='round'/></svg>");
   transition-timing-function: ease;
-  transition-property: background-position, color, background-color, box-shadow, border-color;
+  transition-property: background-position, color, background-color, border-color;
   transition-duration: 0.3s;
 }
 .button:hover, button:hover{
   color: var(--blanc);
   border-color: transparent;
-  box-shadow: -6px -6px 0px var(--nacre);
   background-position: 95% 50%;
   background-image: url("data:image/svg+xml;utf8,<svg width='26' height='24' viewBox='0 0 26 24' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M3.51514 12L22.606 12' stroke='%23fdfdfd' stroke-linecap='round'/><path d='M16.2427 18L22.6063 12L16.2427 6' stroke='%23fdfdfd' stroke-linecap='round'/></svg>");
 }
 .button:active, button:active{
-  box-shadow: -3px -3px 0px var(--nacre);
+  /*  */  
 }
 .button-block{
   display: inline-block;
@@ -609,6 +608,8 @@ blockquote::before {
     margin-right: 3em;
     max-width: 20vw;
     min-width: 15em;
+    height: auto;
+    max-height: 500px;
   }
   .box-cta-action{
   }  
@@ -727,6 +728,10 @@ blockquote::before {
   background-color: var(--minuit);
   color: var(--nacre);
 }
+.inverted .button:hover, .inverted button:hover{
+  border-color: var(--blanc);
+}
+
 
 /* FOOTER */
 footer{
