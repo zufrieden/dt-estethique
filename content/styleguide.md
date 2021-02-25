@@ -1,4 +1,16 @@
-# Styleguide
+---
+title: Styleguide
+date: 2020-11-22T11:34:44.000+00:00
+
+---
+
+{{< dorota-quote
+img_first="/images/woman_face_1.png"
+img_second="/images/man_face_1.png"
+>}}
+Enjoy this styleguide and discover all the designed element on the website
+{{< /dorota-quote >}}
+
 
 ##### Colors
 
