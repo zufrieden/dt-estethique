@@ -8,13 +8,15 @@
 	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	<link href="{{ "css/aos.css" | relURL }}" rel="stylesheet">
 	<script>
 		document.documentElement.className = document.documentElement.className.replace("no-js","js");
 	</script>
 </head>
 <body>
 	{{ partial "header" . }}
-	<main class="container">
+	<main class="container" data-aos="fade-up"
+	 data-aos-duration="500">
 		{{ block "main" . }}{{ end }}
 	</main>
 	{{ partial "footer" . }}
@@ -34,6 +36,9 @@
 		  body.style.backgroundColor = `rgb(${r}, ${g}, ${b})`
 		})
 	</script>
-	
+	<script src="{{ "/js/aos.js" | relURL }}"></script>	
+	<script>
+		  AOS.init();
+	</script>
 </body>
 </html>
