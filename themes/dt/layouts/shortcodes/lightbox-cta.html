@@ -1,0 +1,13 @@
+<div class="lightbox-cta container-full{{ with .Get "class" }} {{.}}{{ end }}{{ with .Get "background" }} {{.}}{{ end }}" data-aos="fade-up">
+	<div class="lightbox-cta-container">
+		<div class="lightbox-cta-content ">
+			<h5>{{ with .Get "surtitle"}}{{.}}{{ end }}</h5>
+			<h2>{{ with .Get "title"}}{{.}}{{ end }}</h2>
+			<p>{{ .Inner }}</p>
+			<div class="lightbox-cta-action">
+				<a href="{{ with .Get "link" }}{{.}}{{ end }}" class="button">{{ with .Get "link_label"}}{{.}}{{ end }}</a>
+			</div>
+		</div>
+		<img src="{{ with .Get "img" }}{{.}}{{ end }}" alt="" class="lightbox-cta-img shadow"  data-aos="fade-up" data-aos-duration="550">
+	</div>
+</div>

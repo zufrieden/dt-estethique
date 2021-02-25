@@ -100,7 +100,7 @@ html.no-js [data-aos] {
 body{
   font-family: Montserrat,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-size: calc(0.8em + 0.5vw);
-  font-size: -webkit-calc(80% + 0.5vw);
+  font-size: clamp(1em,calc(0.8em + 0.5vw),22px);
   margin: 0;
   padding:0;
   color: var(--minuit);
@@ -109,7 +109,7 @@ body{
 main{
   position: relative;
   z-index: 80;
-  max-width: 50rem;
+  max-width: 60em;
   margin: auto;
 }
 @supports (display: grid) and (not (-ms-ime-align: auto)) {
@@ -122,7 +122,7 @@ main{
 	max-width: 100%;
 	grid-template-columns:
 	[full-start] minmax(1em, 1fr)
-	[main-start] minmax(0, 50em) [main-end]
+	[main-start] minmax(0, 60em) [main-end]
 	minmax(1em, 1fr) [full-end];
   }
   .container>*{
@@ -388,17 +388,17 @@ h1, h2, h3, h4, h5{
   word-wrap: break-word;
 }
 h1, .h1 {
-  font-family: Montserrat,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-family: Montserrat-semi-bold,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-size: calc(1.1em + 1vw);
-  font-size: -webkit-calc(110% + 1vw);
+  font-size: clamp(1em,calc(1.1em + 1vw),30px);
   line-height: 1.1em;
   font-weight: 600;
   margin-top: 0;
   margin-bottom: 0;
 }
 h2, .h2 {
-  font-size: calc(2.1em + 1vw);
-  font-size: -webkit-calc(210% + 1vw);
+  font-size: calc(1.6em + 1vw);
+  font-size: clamp(1em,calc(1.6em + 1vw),45px);
   line-height: 1.3em;
   font-weight: 600;
   margin-top: 0;
@@ -411,7 +411,7 @@ h2 em, .h2 em{
 }
 h3, .h3 {
   font-size: calc(0.7em + 1vw);
-  font-size: -webkit-calc(70% + 1vw);
+  font-size: clamp(1em,calc(0.7em + 1vw),26px);
   font-weight: 600;
   line-height: 1.3em;
   margin-top: 0;
@@ -420,7 +420,7 @@ h3, .h3 {
 h4, .h4 {
   font-family: 'Garamond-italic';
   font-size: calc(0.7em + 1vw);
-  font-size: -webkit-calc(70% + 1vw);
+  font-size: clamp(1em,calc(0.7em + 1vw),24px);
   font-style: italic;
   font-weight: 400;
   line-height: 1.3em;
@@ -429,9 +429,9 @@ h4, .h4 {
   text-transform: uppercase;
 }
 h5, .h5{
-  font-family: Montserrat,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-family: Montserrat-semi-bold,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-size: calc(0.5em + 1vw);
-  font-size: -webkit-calc(50% + 1vw);
+  font-size: clamp(1em,calc(0.5em + 1vw),18px);
   line-height: 1.3em;
   font-weight: 600;
   margin-top: 0;
@@ -580,6 +580,7 @@ blockquote::before {
 /* box CTA */
 .box-cta{
   margin-top: 4em;
+  margin-bottom: 4em;;
 }
 .box-cta-content{
   background-color: var(--nacre50);
@@ -590,15 +591,16 @@ blockquote::before {
   margin-bottom: 2em;
   float: left;
   width: 80vw;
+  height: 30vh;
+  object-fit: cover;
+  object-position: 50% 50%; 
   margin-right: 20vw;
 }
 .box-cta-action{
   margin: 1em 0;
 }
 @media (min-width: 40em) {
-  .box-cta{
-    margin-top: 0;
-  }
+
   .box-cta-content{
     margin-left: 4em;
   }
@@ -609,6 +611,47 @@ blockquote::before {
     min-width: 15em;
   }
   .box-cta-action{
+  }  
+}
+
+/* lightbox CTA */
+.lightbox-cta{
+  background-color: var(--nacre50);
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+.lightbox-cta-container{
+  margin: 0 auto;
+  padding: 2vh 2vw;
+  max-width: var(--maxwidth);
+  position: relative;
+}
+.lightbox-cta-content{
+  padding: 1.5em;
+}
+.lightbox-cta-img{
+  margin: 4em auto -4em;
+  width: 80vw;
+  display: block;
+}
+.lightbox-cta-action{
+  margin: 1em 0;
+}
+@media (min-width: 40em) {
+  .lightbox-cta-content{
+    width: 40%;
+  }
+  .lightbox-cta-img{
+    right:4vw;
+    bottom: 5%;
+    position: absolute;
+    width: 40vw;
+    height: 30vh;
+    max-width: 700px;
+    object-fit: cover;
+    object-position: 70% 50%;
+  }
+  .lightbox-cta-action{
   }  
 }
 

@@ -130,3 +130,27 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assu
 {{< /box-cta >}}
 
 
+{{< lightbox-cta
+img="/images/doctor_face.png"
+surtitle="Dre Dorota Teterycz"
+title="Confiance et résultat visible"
+link="#"
+link_label="En savoir plus"
+>}}
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi.
+{{< /lightbox-cta >}}
+
+
+{{< lightbox-cta
+background="inverted"
+img="/images/doctor_face.png"
+surtitle="Dre Dorota Teterycz"
+title="Confiance et résultat visible"
+link="#"
+link_label="En savoir plus"
+>}}
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assumenda sequi consectetur dolores quasi.
+{{< /lightbox-cta >}}
+
+
+
