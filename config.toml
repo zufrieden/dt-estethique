@@ -22,6 +22,12 @@ theme = "dt"
 		url = "/dre-dorota-teterycz/"
 		weight = 2 
 
+	[[menu.main]]
+		identifier = "objectifs"
+		name = "Vos objectifs"
+		url = "/objectifs/"
+		weight = 3
+
   [[menu.main]]
 		identifier = "prestations"
 		name = "Les prestations"
@@ -30,7 +36,7 @@ theme = "dt"
 
   [[menu.main]]
 		identifier = "rendez-vous"
-		name = "Prenons rendez-vous"
+		name = "Contact"
 		url = "/rendez-vous/"
 		weight = 5
 
