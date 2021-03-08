@@ -405,7 +405,7 @@ A l'aide d'un laser, je provoque une contraction de collagène dans le tissu de 
 
 ### Utilisation de Nightlase pour améliorer votre sommeil
 
-La thérapie NightLase de Fotona est le moyen idéal de retrouver un sommeil de qualité. Le point fort de ce traitement est son aspect non invasif et léger. Il ne demande pas de délai de récupération et vous pouvez reprendre vos activités immédiatement après.
+La thérapie NightLase de Fotona est le moyen idéal de retrouver un sommeil de qualité. Le point fort de ce traitement est son aspect **non invasif et léger.** Il ne demande pas de délai de récupération et vous pouvez reprendre vos activités immédiatement après.
 
 ### Précautions avec Nightlase pour améliorer votre sommeil
 
