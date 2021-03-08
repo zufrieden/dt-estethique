@@ -5,9 +5,11 @@ date: 2020-11-22T12:34:44.000+01:00
 ---
 # Prenons rendez-vous
 
-Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique. Même si les traitements que je propose sont légers et rapides, ils demeurent des interventions médicales. Avant toute décision, il est important de nous rencontrer pour évaluer la situation et les différentes options.
+Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique. Même si les traitements que je propose sont légers et rapides, ils demeurent des interventions médicales. Avant toute décision, il est important de **nous rencontrer pour évaluer la situation** et définir le traitement adapté.
 
-\[Texte pour le CTA\] 
+Notre premier rendez-vous est un temps d'écoute et de dialogue. **Il ne vous engage à rien** et ne représente pas une obligation de suivre un traitement. C'est uniquement à vous que cette décision appartiendra.
+
+\[Texte pour le CTA\]
 
 Premier rendez-vous
 
