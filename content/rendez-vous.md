@@ -9,13 +9,13 @@ Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastiq
 
 Notre premier rendez-vous est un temps d'écoute et de dialogue. **Il ne vous engage à rien** et ne représente pas une obligation de suivre un traitement. C'est uniquement à vous que cette décision appartiendra.
 
-\[Texte pour le CTA\]
+...Texte pour le CTA...
 
 Premier rendez-vous
 
 Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter.
 
-\[/Texte pour le CTA\]
+.../Texte pour le CTA...
 
 ## Coordonnées
 
