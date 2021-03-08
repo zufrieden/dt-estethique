@@ -5,13 +5,11 @@ date: 2020-11-22T11:34:44.000+00:00
 ---
 ## **Prestations**
 
-La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sérénité et sans les contraintes de la chirurgie plastique.
+**La médecine esthétique permet d’obtenir des résultats visibles et naturels, en toute sérénité et sans les contraintes de la chirurgie plastique.**
 
-Plus efficace que les soins esthétiques, on vous dira que vous resplendissez, mais sans savoir pourquoi.
+**Je suis votre unique interlocutrice**, pour garantir une prestation de haute expertise. [C'est moi](# "Portrait de Dorota Teterycz") qui vous reçois, qui vous écoute, qui délivre les conseils et qui accomplis l'ensemble des gestes médicaux. 
 
-Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'au soin délivré, l'ensemble des gestes médicaux sont réalisés exclusivement par la [Dre Dorota Teterycz](/dre-dorota-teterycz "Dre Dorota Teterycz").
-
-## **Combler ses rides avec l’acide hyaluronique**
+## **Combler vos rides avec l’acide hyaluronique**
 
 #### Objectifs
 
@@ -24,9 +22,9 @@ Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'
 
 * Entre 6 et 12 mois
 
-#### Séance
+#### Séances
 
-* Entre x et x séances de 10 et 30 minutes
+* Entre x et x séances de 10 à 30 minutes
 
 #### Coûts
 
@@ -36,34 +34,45 @@ Pour toujours vous garantir une prestation de haute expertise, du conseil jusqu'
 
 * Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures
 
-Contrairement au "traitement par le botox" qui agit sur la musculature du visage, l'acide hyaluronique est un produit de comblement des rides. Il remplace la masse graisseuse sous cutanée, qui a tendance à disparaître avec l'âge. Il retient l'eau sous la peau comme le ferait une éponge, et redonne ainsi du volume aux traits creusés.
+### Effets de l'acide hyarulonique
 
-Acide hyaluronique conviennent au traitement des rides profondes (par ex. sillons nasogéniens) ou des petites rides déjà fixées (par ex. rides des lèvres, rides des joues). L'acide hyaluronique est un composant naturel des tissus sous-cutanés. Il se combine avec l'eau dans les tissus. Dans la peau, la concentration d'acide hyaluronique diminue avec l'âge. Le résultat est une peau moins élastique et sujette aux rides. Les fillers sont des substances qui sont injectées dans la peau afin de corriger une perte de substance dû au processus de vieillissement. Ils sont le plus souvent utilisés pour "combler" les rides. Acide Hyaluronique est particulièrement indiqué pour l'injection de rides profondes (par ex. sillons nasogéniens) ainsi que pour le traitement de petites rides déjà fixées (par ex. rides des joues, rides des lèvres). Il est également utilisés pour la restitution de volume (lèvres, redressement du nez, cernes, pommettes). On s’en sert pour hydrater la peau, redéfinir les contours du visage et rajeunir le décolleté et les mains. Comme les injections de toxine botulique auxquelles il se combine aisément, son action n’est pas permanente: il se résorbe naturellement au bout de 6 à 12 mois, ce qui implique de renouveler les injections.
+L'acide hyaluronique **comble véritablement vos rides**. Il remplace la masse graisseuse sous-cutanée, qui a tendance à disparaître avec l'âge. Ainsi, l'eau est retenue sous votre peau comme dans une éponge. Et les traits creusés retrouvent du volume.
 
-J’utilise l’acide hyaluronique qui contient un anesthésique, ce qui rend le geste pratiquement indolore. L’acide hyaluronique est naturellement synthétisé par le corps humain: il est donc bien toléré et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.
+### Utilisation de l'acide hyarulonique
 
-L’acide hyluronique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter l’acide hyaluronique.
+J'utilise l'acide hyarulonique pour **combler tous types de rides**. Les rides profondes comme le sillon nasogénien, qui relie le nez à la bouche. Ou de plus petites rides comme celle des lèvres ou des joues.
+
+L'acide hyarulonique permet aussi de **redonner du volume** au lèvres ou aux pommettes. De redresser le nez ou d'effacer les cernes. On s’en sert pour hydrater la peau, redéfinir les contours du visage et rajeunir le décolleté et les mains. 
+
+L'acide hyarulonique est présent dans notre organisme, mais sa concentration et son efficacité diminuent avec l'âge. C'est pourquoi les effets d'un traitement vont **s'estomper après 6 à 12 mois**. Il faudra donc renouveler les injections.
+
+### Précautions avec l'acide hyarulonique
+
+L’acide hyluronique est un médicament. Selon les directives de Swissmedic, son utilisation est **réservée à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
+
+L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention est donc pratiquement indolore. L’acide hyaluronique est naturellement dans notre organisme: il est donc **bien toléré** et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.
 
 ### [Prendre rendez-vous]()
 
-## **Les nombreuses vertus du Botox**
+## **Traitements au Botox**
 
 #### Objectifs
 
-* Prévention du vieillissement
+* Prévenir le vieillissement
 * Obtenir une apparence fraîche
 * Corriger l’effet des paralysies faciales
 * Atténuer les rides
 * Relever les sourcils et ouvrir le regard
 * Atténuer l’aspect peau d’orange du menton
-* Bloquer l’hypersudation (transpiration excessive) des aisselles et d’autres régions du corps
+* Bloquer la transpiration excessive de toutes régions du corps
 * Traiter les grincements de dents (bruxisme)
 
 #### Effets
 
-* Entre 3 et 6 mois. Dépend des zones traitées. L'effet du traitement commence 2 à 5 jours après l'injection et est au maximum 15 jours après l'injection.
+* Durée entre 3 et 6 mois, selon votre âge et les zones traitées 
+* Effets après 2 à 5 jours, maximum atteint après 15 jours
 
-#### Séance
+#### Séances
 
 * Entre x et x séances de 10 à 30 minutes.
 
@@ -73,13 +82,23 @@ L’acide hyluronique est un médicament dont l’utilisation comporte de potent
 
 #### Conseils
 
-* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement.
+* Éviter de frotter ou de masser les zones traitées pendant  24 heures
 
-La toxine botulique (Botox) peut être utilisée pour répondre à de nombreux objectifs. Bien souvent négligée, l’indication du Botox est certainement la meilleure pour la prévention du vieillissement. Chez certain(e)s patient(e)s apparaissent très tôt des rides fines, qui se majorent rapidement. Commencer le traitement dès l’apparition de ces rides est souvent un bon choix à long terme soit en moyenne vers 30 ans. Car en relaxant la contraction musculaire (en mettant en pause certains muscles) de manière temporaire et réversible, les rides d’expression seront effacées et le vieillissement sera sérieusement ralenti dans les zones traitées. En fonction de la dose injectée on peut atténuer les rides sans figer l’expression. Un traitement bien fait ne doit pas se voir.
+### Effets du Botox
 
-Son effet est limité dans le temps. Il est recommandé de renouveler les injections deux à trois fois par année.
+La toxine botulique (Botox) **agit sur la musculature**. Le Botox relaxe ou stoppe la contraction de certains muscles. Ainsi, il prévient la formation de rides et ralentit le vieillissement de la peau. 
 
-La toxine botulique est un médicament dont l’utilisation comporte de potentiels effets indésirables. Conformément aux directives de Swissmedic, elle ne peut être utilisée que par des médecins spécialistes possédant l’expérience requise et maîtrisant la technique pour injecter la toxine botulique de type A.
+### Utilisation du Botox
+
+J'utilise le Botox pour **prévenir le vieillissement de la peau** ou corriger ses effets. Tout l'enjeu de ces traitements réside dans le dosage et la localisation des injections. Mon but, c'est d'atténuer les rides sans pour autant figer l'expression. Un traitement réussi ne doit pas se remarquer.
+
+Les premières rides fines peuvent apparaître assez tôt, **en moyenne vers 30 ans**. Commencer un traitement dès ce moment est payant à long terme, car je peux durablement effacer les rides et ralentir le vieillissement de la peau.
+
+L'effet du Botox n'est pas permanent, il faudra donc **renouveler les injections**. Ma recommandation est de le faire 2 à 3 fois par an, mais ça peut être plus fréquent pour des personnes jeunes et expressives.
+
+### Précautions avec le Botox 
+
+La toxine botulique est un médicament qui peut comporter des potentiels indésirables dans certains cas. C'est pourquoi Swissmedic **réserve son utilisation à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
 
 ### [Prendre rendez-vous]()
 
@@ -95,9 +114,9 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 * 4 mois
 
-#### Séance
+#### Séances
 
-* 3 séances de 30 à 45 minutes puis puis renouveler 3 fois par année
+* 3 séances de 30 à 45 minutes, puis renouveler 3 fois par année
 
 #### Coûts
 
@@ -105,7 +124,7 @@ La toxine botulique est un médicament dont l’utilisation comporte de potentie
 
 #### Conseils
 
-* Éviter de frotter ou de masser les zones traitées pendant les 24 premières heures après le traitement. Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
+* Éviter de frotter ou de masser les zones traitées, de mettre du maquillage et de pratiquer le sport pendant 24 heures. Le travail peut être repris le lendemain de l’intervention.
 
 La technique de MicroNeedeling est idéale en prévention du vieillissement. Elle va améliorer l’aspect et la texture de la peau. Procurer un teint plus éclatant et uniforme. Il est idéal pour densifier et raffermir l’épiderme.
 
