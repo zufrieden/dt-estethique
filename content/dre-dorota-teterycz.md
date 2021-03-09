@@ -5,7 +5,7 @@ date: 2020-11-22T12:34:44.000+01:00
 ---
 # Dre Dorota Teterycz
 
-**_Je m'appelle Dorota Teterycz. J'ai fondé ce cabinet de médecine esthétique pour pratiquer des interventions médicales dans un but esthétique, sans opération._** 
+**_Je m'appelle Dorota Teterycz. J'ai fondé ce cabinet de médecine esthétique pour pratiquer des interventions médicales dans un but esthétique, sans opération._**
 
 J'exerce comme chirurgienne depuis une dizaine d'années. Et mon expérience m'a naturellement menée à **m'intéresser à la peau**. Est-ce que c'est pour contrebalancer le travail que j'effectue quotidiennement en profondeur dans le coprs humain?
 
@@ -15,7 +15,7 @@ Toujours est-il que j'ai développé une passion pour les interventions médical
 
 J'ai grandi en Pologne et j'y ai vécu jusqu'à la fin de mes études de médecine, en 2002. Je suis ensuite arrivée en Suisse pour me former aux HUG, où j'ai **obtenu le titre de chirurgienne** en 2010.
 
-Depuis octobre 2017, j'occupe le **poste de médecin-cheffe** au sein du service de chirurgie des Établissements Hospitaliers du Nord Vaudois. Je suis responsable du [Centre yverdonnois d'obésité et de chirurgie bariatrique](https://www.ehnv.ch/etablissements/centre-dobesite-et-de-chirurgie-bariatrique-cyocb) (CYOCB) et j'assume aussi un poste de médecin consultante au [service de chirurgie viscérale](https://www.chuv.ch/fr/chirurgie-viscerale/chv-home/) des Hôpitaux Universitaires de Genève (HUG).
+Depuis octobre 2017, j'occupe le **poste de médecin-cheffe** au sein du service de chirurgie des Établissements Hospitaliers du Nord Vaudois. Je suis responsable du [Centre yverdonnois d'obésité et de chirurgie bariatrique](https://www.ehnv.ch/etablissements/centre-dobesite-et-de-chirurgie-bariatrique-cyocb) (CYOCB) et j'assume également un poste de médecin consultante au [service de chirurgie viscérale](https://www.chuv.ch/fr/chirurgie-viscerale/chv-home/) des Hôpitaux Universitaires de Genève (HUG).
 
 J'ai suivi une formation approfondie en chirurgie viscérale en 2018. Depuis 2019, j'ai le titre AFC «thérapie endoveineuse des varices». Mon parcours de médecin diplômée et expérimentée me permet **d'exercer la médecine esthétique** en toute sécurité pour mes patients.
 
