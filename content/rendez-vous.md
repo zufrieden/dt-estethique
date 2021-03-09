@@ -13,7 +13,7 @@ Notre premier rendez-vous est un temps d'écoute et de dialogue. **Il ne vous en
 
 Premier rendez-vous
 
-Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter.
+Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter en toute discrétion. 
 
 .../Texte pour le CTA...
 
