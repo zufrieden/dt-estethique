@@ -23,8 +23,28 @@ Grâce aux progrès de la science, je peux désormais **ralentir ou atténuer** 
 
 Je vous aide à **lutter dès aujourd’hui** contre les facteurs qui aggraveront les signes de l’âge dans 10 ou 20 ans.
 
-## Premier rendez-vous
+... Bouton «Définir vos objectifs»...
 
-Ma promesse
+## Contact
 
-Mes prestations
+### Premier rendez-vous
+
+Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter.
+
+... Bouton «Prendre rendez-vous»...
+
+## Dre Dorota Teterycz
+
+### Ma promesse
+
+Je pratique la médecine esthétique pour vous offrir des **résultats visibles et naturels**, en toute sécurité et sans contraintes.
+
+... Bouton «Découvrir mon parcours»...
+
+## Mes prestations
+
+### Technologie et savoir-faire
+
+Mon expertise me permet de proposer une gamme étendue de techniques, de méthodes et de traitements. Quels que soitent vos objectifs, je pourrai vous recommander **l'approche la mieux adaptée** aux résultats voulus et à votre situations personnelle.
+
+... Bouton «Découvrir mes prestations»... 
