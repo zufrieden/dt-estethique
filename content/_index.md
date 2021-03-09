@@ -13,11 +13,17 @@ date: 2020-11-22T12:34:44.000+01:00
 
 ### Embellir
 
+Mes interventions peuvent **corriger en douceur des éléments disgracieux** de votre visage ou de votre corps.
+
 ### Rajeunir
+
+Grâce aux progrès de la science, je peux désormais **ralentir ou atténuer** efficacement les effets de l’âge.
 
 ### Prévenir
 
-Premier rendez-vous
+Je vous aide à **lutter dès aujourd’hui** contre les facteurs qui aggraveront les signes de l’âge dans 10 ou 20 ans.
+
+## Premier rendez-vous
 
 Ma promesse
 
