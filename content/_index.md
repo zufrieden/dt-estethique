@@ -29,7 +29,7 @@ Je vous aide à **lutter dès aujourd’hui** contre les facteurs qui aggraveron
 
 ### Premier rendez-vous
 
-Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter.
+Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter en toute discrétion.
 
 ... Bouton «Prendre rendez-vous»...
 
@@ -37,7 +37,7 @@ Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestati
 
 ### Ma promesse
 
-Je pratique la médecine esthétique pour vous offrir des **résultats visibles et naturels**, en toute sécurité et sans contraintes.
+Je pratique la médecine esthétique pour vous offrir des **résultats visibles et naturels**, en toute sécurité et sans contraintes. On vous dira que vous resplendissez, sans vraiment savoir pourquoi.
 
 ... Bouton «Découvrir mon parcours»...
 
@@ -45,6 +45,6 @@ Je pratique la médecine esthétique pour vous offrir des **résultats visibles 
 
 ### Technologie et savoir-faire
 
-Mon expertise me permet de proposer une gamme étendue de techniques, de méthodes et de traitements. Quels que soitent vos objectifs, je pourrai vous recommander **l'approche la mieux adaptée** aux résultats voulus et à votre situations personnelle.
+Mon expertise me permet de proposer une gamme étendue de techniques, de méthodes et de traitements. Quels que soient vos objectifs, je pourrai vous recommander **l'approche la mieux adaptée** aux résultats désirés et à votre situations personnelle.
 
 ... Bouton «Découvrir mes prestations»...
