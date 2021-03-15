@@ -24,11 +24,29 @@ Dans mon cabinet, **je suis votre unique interlocutrice**, pour garantir une pre
 
 #### Séances
 
-* Entre x et x séances de 10 à 30 minutes
+* Entre 1 et 4 séances de 20 à 45 minutes
 
 #### Coûts
 
-* CHF xx.- la séance
+* Dès CHF 300.- la séance
+
+**(i) Exemples de tarifs   
+Lèvres (ourlet + hydratation)**   
+Dès CHF 300.-  
+**Pli nasogénien  
+**Dès CHF 350.-  
+**Pli nasogénien et Pli d’amertume  
+**Dès CHF 550.-  
+**Ovale du visage  
+**Dès CHF 400.-  
+**Cernes  
+**Dès CHF 450.-  
+**Lèvres (volume)  
+**Dès CHF 300.-  
+**Mains**  
+Dès CHF 500.-  
+**Tempes ou Pommettes  
+**Dès CHF 450.-
 
 #### Conseils
 
@@ -40,19 +58,19 @@ L'acide hyaluronique **comble véritablement vos rides**. Il remplace la masse g
 
 ### Utilisation
 
-J'utilise l'acide hyarulonique pour **combler tous types de rides**. Les rides profondes comme le sillon nasogénien, qui relie le nez à la bouche. Ou de plus petites rides comme celle des lèvres ou des joues.
+J'utilise l'acide hyaluronique pour **combler tous types de rides**. Les rides profondes comme le sillon nasogénien, qui relie le nez à la bouche. Ou de plus petites rides comme celle des lèvres ou des joues.
 
-L'acide hyarulonique permet aussi de **redonner du volume** au lèvres ou aux pommettes. De redresser le nez ou d'effacer les cernes. On s’en sert pour hydrater la peau, redéfinir les contours du visage et rajeunir le décolleté et les mains.
+L'acide hyaluronique permet aussi de **redonner du volume** au lèvres ou aux pommettes. De redresser le nez ou d'effacer les cernes. On s’en sert pour hydrater la peau, redéfinir les contours du visage et rajeunir le décolleté et les mains.
 
-L'acide hyarulonique est présent dans notre organisme, mais sa concentration et son efficacité diminuent avec l'âge. Les effets d'un traitement vont **s'estomper après 6 à 12 mois**. Il faudra donc renouveler les injections.
+L'acide hyaluronique est présent dans notre organisme, mais sa concentration et son efficacité diminuent avec l'âge. Les effets d'un traitement vont **s'estomper après 6 à 12 mois**. Il faudra donc renouveler les injections.
 
 ### Précautions
 
-L’acide hyluronique est un médicament. Selon les directives de Swissmedic, son utilisation est **réservée à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
+L’acide hyaluronique est un médicament. Selon les directives de Swissmedic, son utilisation est **réservée à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
 
-L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention est donc pratiquement indolore. L’acide hyaluronique est naturellement dans notre organisme: il est donc **bien toléré** et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.
-
-### [Prendre rendez-vous]()
+L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention est donc pratiquement indolore. L’acide hyaluronique est naturellement dans notre organisme: il est donc **bien toléré** et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.  
+  
+[Prendre rendez-vous]()
 
 ## **Ralentir le vieillissement avec les traitements au Botox**
 
@@ -69,16 +87,37 @@ L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention e
 
 #### Effets
 
-* Durée entre 3 et 6 mois, selon votre âge et les zones traitées
+* Durée entre 3 et 5 mois, selon votre âge et les zones traitées
 * Effets après 2 à 5 jours, maximum atteint après 15 jours
 
 #### Séances
 
-* Entre x et x séances de 10 à 30 minutes
+* Entre 2 et 4 séances de 10 à 30 minutes
 
 #### Coûts
 
-* CHF xx.- la séance
+* Dès CHF 250.- la séance
+
+  **Front   
+  **Dès CHF 300.-
+
+  **Rides du lion   
+  **Dès CHF 250.-
+
+  **Pattes d’oie   
+  **Dès CHF 200.-
+
+  **Haut du visage   
+  **Dès CHF 500.-
+
+  **Bas du visage  
+  **Dès CHF 200.-
+
+  **Coup**   
+  Dès CHF 200.-
+
+  **Hyperhidrose (aisselles)   
+  **Dès CHF 600.-
 
 #### Conseils
 
@@ -120,7 +159,7 @@ La toxine botulique est un médicament qui peut comporter des potentiels indési
 
 #### Coûts
 
-* CHF xx.- la séance
+* Dès CHF 250.- la séance
 
 #### Conseils
 
@@ -128,7 +167,7 @@ La toxine botulique est un médicament qui peut comporter des potentiels indési
 
 ### Effets
 
-Le MicroNeedling consiste à pratiquer des microperforations invisibles dans l'épiderme. La peau va réagir en boostant sa régénération: lelle va produire de l'élastine et du collagène, qui vont reonner de l'éclat et du volume.
+Le MicroNeedling consiste à pratiquer des microperforations invisibles dans l'épiderme. La peau va réagir en boostant sa régénération: elle va produire de l'élastine et du collagène, qui vont reonner de l'éclat et du volume.
 
 ### Utilisation
 
@@ -160,7 +199,7 @@ La séance dure environ 30 minutes. **Elle est confortable** même sur les peaux
 
 #### Séance
 
-* Entre 2 et 3 séances de 20 à 45 minutes
+* Entre 2 et 4 séances de 20 à 45 minutes
 
 #### Coûts
 
@@ -198,7 +237,7 @@ Il s'agit là d'interventions en profondeur dans l'épiderme. L'usage de ces tec
 
 #### Séance
 
-* Entre x et x séances de 10 à 120 minutes
+* Entre 4 et 8 séances de 10 à 120 minutes
 
 #### Coûts
 
