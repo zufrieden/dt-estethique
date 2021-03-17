@@ -30,23 +30,23 @@ Dans mon cabinet, **je suis votre unique interlocutrice**, pour garantir une pre
 
 * Dès CHF 300.- la séance
 
-**(i) Exemples de tarifs   
-Lèvres (ourlet + hydratation)**   
+**(i) Exemples de tarifs  
+**Lèvres (ourlet + hydratation)  
 Dès CHF 300.-  
-**Pli nasogénien  
-**Dès CHF 350.-  
-**Pli nasogénien et Pli d’amertume  
-**Dès CHF 550.-  
-**Ovale du visage  
-**Dès CHF 400.-  
-**Cernes  
-**Dès CHF 450.-  
-**Lèvres (volume)  
-**Dès CHF 300.-  
-**Mains**  
+Pli nasogénien  
+Dès CHF 350.-  
+Pli nasogénien et Pli d’amertume  
+Dès CHF 550.-  
+Ovale du visage  
+Dès CHF 400.-  
+Cernes  
+Dès CHF 450.-  
+Lèvres (volume)  
+Dès CHF 300.-  
+Mains  
 Dès CHF 500.-  
-**Tempes ou Pommettes  
-**Dès CHF 450.-
+Tempes ou Pommettes  
+Dès CHF 450.-
 
 #### Conseils
 
@@ -68,8 +68,8 @@ L'acide hyaluronique est présent dans notre organisme, mais sa concentration et
 
 L’acide hyaluronique est un médicament. Selon les directives de Swissmedic, son utilisation est **réservée à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
 
-L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention est donc pratiquement indolore. L’acide hyaluronique est naturellement dans notre organisme: il est donc **bien toléré** et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.  
-  
+L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention est donc pratiquement indolore. L’acide hyaluronique est naturellement dans notre organisme: il est donc **bien toléré** et n’entraîne pas de risque d’allergie. C’est un produit sûr, qui ne présente que très rarement des effets secondaires.
+
 [Prendre rendez-vous]()
 
 ## **Ralentir le vieillissement avec les traitements au Botox**
@@ -98,26 +98,26 @@ L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention e
 
 * Dès CHF 250.- la séance
 
-  **Front   
-  **Dès CHF 300.-
+  Front  
+  Dès CHF 300.-
 
-  **Rides du lion   
-  **Dès CHF 250.-
+  Rides du lion  
+  Dès CHF 250.-
 
-  **Pattes d’oie   
-  **Dès CHF 200.-
-
-  **Haut du visage   
-  **Dès CHF 500.-
-
-  **Bas du visage  
-  **Dès CHF 200.-
-
-  **Coup**   
+  Pattes d’oie  
   Dès CHF 200.-
 
-  **Hyperhidrose (aisselles)   
-  **Dès CHF 600.-
+  Haut du visage  
+  Dès CHF 500.-
+
+  Bas du visage  
+  Dès CHF 200.-
+
+  Coup  
+  Dès CHF 200.-
+
+  Hyperhidrose (aisselles)  
+  Dès CHF 600.-
 
 #### Conseils
 
@@ -203,7 +203,7 @@ La séance dure environ 30 minutes. **Elle est confortable** même sur les peaux
 
 #### Coûts
 
-* CHF xx.- la séance
+* CHF 250.- la séance (30 minutes)
 
 #### Conseils
 
@@ -241,7 +241,52 @@ Il s'agit là d'interventions en profondeur dans l'épiderme. L'usage de ces tec
 
 #### Coûts
 
-* CHF xx.- la séance de xx minutes
+* Dès CHF 80.- la séance 
+
+  **(i) Exemples de tarifs (pas séance)  
+  **Entre-sourcils   
+  CHF 50.-
+
+  Lèvre supérieure   
+  CHF 70.-
+
+  Menton   
+  CHF 70.-
+
+  Aisselle   
+  CHF 100.- 
+
+  Avant bars   
+  CHF 200.- 
+
+  Bras entiers   
+  De CHF 300.- à CHF 400.- 
+
+  Torse   
+  De CHF 300.- à CHF 400.-
+
+  Dos complet   
+  De CHF 300.- à CHF 500.-  
+  Sillon interfessier   
+  CHF 80.-
+
+  Maillot classique   
+  CHF 100.- 
+
+  Maillot échancré   
+  CHF 150.-
+
+  Maillot intégral   
+  CHF 250.- 
+
+  ½ jambes   
+  CHF 250.- 
+
+  Jambes complètes   
+  De CHF 350.- à CHF 450.- 
+
+  Fesses   
+  CHF 200.- 
 
 #### Conseils
 
@@ -281,7 +326,7 @@ Le succès du traitement de réduction des poils dépend beaucoup des compétenc
 
 #### Coûts
 
-* CHF xx.- la séance de xx minutes
+* De CHF 200.- à CHF 700.- la séance 
 
 #### Conseils
 
@@ -315,11 +360,11 @@ J'utilise **un laser de qualité médicale**. Ce type d'appareil demande une for
 
 #### Séance
 
-* Entre x et x séances de 10 à 30 minutes
+* Entre 2 et 4 séances de 10 à 30 minutes
 
 #### Coûts
 
-* CHF xx.- la séance
+* Dès CHF 200.- la séance
 
 #### Conseils
 
@@ -349,7 +394,7 @@ Mon laser de qualité médicale permet un contrôle exact et précis de toute la
 
 #### Effets
 
-* ?
+* Entre 6 et 9 mois
 
 #### Séance
 
@@ -357,7 +402,7 @@ Mon laser de qualité médicale permet un contrôle exact et précis de toute la
 
 #### Coûts
 
-* CHF xx.- la séance
+* Entre CHF 500.- et CHF 700.- la séance
 
 #### Conseils
 
@@ -387,7 +432,7 @@ Il s'agit d'une intervention médicale qui **demande un grand savoir-faire** et 
 
 #### Effets
 
-* ?
+* 1 an
 
 #### Séance
 
@@ -395,7 +440,7 @@ Il s'agit d'une intervention médicale qui **demande un grand savoir-faire** et 
 
 #### Coûts
 
-* CHF xx.- la séance
+* CHF 500.- la séance
 
 #### Conseils
 
@@ -428,11 +473,11 @@ Note de Romain: il manque des arguments ici
 
 #### Séance
 
-* 6 séances de 45 à 60 minutes
+* 6 séances de 30 minutes
 
 #### Coûts
 
-* CHF xx.- la séance
+* CHF 300.- la séance
 
 #### Conseils
 
