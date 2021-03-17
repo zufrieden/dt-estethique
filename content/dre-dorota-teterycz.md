@@ -21,4 +21,11 @@ J'ai suivi une formation approfondie en chirurgie viscérale en 2018. Depuis 201
 
 Note de Romain: quelles infos sur sa formation en médecine esthétique?
 
+> Réponse :   
+> Diplôme d’université Paris-Est Créteil, faculté de médecine, médecine esthétique
+>
+> Cours de base pour les technologies laser (HUG, Service de dermatologie)
+>
+> Cours pratique sur les lasers vasculaires (Smarting Swiss Academy, Zurich)
+
 Je fais partie de la [Société Vaudoise de Médecine](https://www.svmed.ch/) (SVM), de la [Société Suisse de Chirurgie Viscérale ](https://www.viszeralchirurgie.ch/index.php?id=3&lang=fr&cHash=2629757a586c5e39ae528c9abdbb10c0)(SSCV) et du [Swiss Study Group for Morbid Obesity](http://www.smob.ch/fr/) (SMOB).
