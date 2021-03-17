@@ -15,9 +15,9 @@ Premier rendez-vous
 
 Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter en toute discrétion.
 
-.../Texte pour le CTA... 
+.../Texte pour le CTA...
 
-## Coordonnées 
+## Coordonnées
 
 Dre Dorota Teterycz  
 Cabinet de médecine esthétique  
@@ -26,11 +26,11 @@ Rue d'Entremonts 11
 [079 405 04 53]()  
 [contact@dt-esthetique.ch]()
 
-#### _Notes pour Romain, ajouter  :   
-  
-Réservez en ligne   
-Votre premier rendez-vous   
-Plage horaire de 30 minutes sans intervention   
-CHF 120 déduit du traitement  
-  
+#### _Notes pour Romain, ajouter  :
+
+Réservez en ligne  
+Votre premier rendez-vous  
+30 minutes sans intervention  
+CHF 100.- déduit du traitement
+
 Rendez-vous en ligne >> agenda.ch ou qqch dans le genre_
