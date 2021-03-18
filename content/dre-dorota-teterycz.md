@@ -11,6 +11,14 @@ J'exerce comme chirurgienne depuis une dizaine d'années. Et mon expérience m'a
 
 Toujours est-il que j'ai développé une passion pour les interventions médicales à vocation esthétique. Habituée à manier les instruments médicaux, je maîtrise le laser et les injections. Je m'en sers désormais pour **aider mes patients à embellir, rajeunir ou prévenir** les problèmes de peau.
 
+## Médecine esthétique
+
+Pour pouvoir appliquer cette nouvelle passion pour la médecine esthétique, j'ai suivi une formation spécialisée. En XXX, j'ai obtenu un **Diplôme en médecine esthétique** de la faculté de médecine de l'université Paris-Est Créteil.
+
+J'ai aussi accompli le cours de base pour les **technologies laser** (HUG, Service de dermatologie), ainsi que le cours pratique sur les **lasers vasculaires** (Smarting Swiss Academy, Zurich).
+
+> Note de Romain: ce serait top d'avoir les années de ces diplômes. Ça permettrait de situer dans le temps la formation pour la médecine esthétique, ou de montrer que la pratique de la chirurgie a donné à Dorota certaines compétences essentielles (lasers, p. ex.)
+
 ## Mon parcours
 
 J'ai grandi en Pologne et j'y ai vécu jusqu'à la fin de mes études de médecine, en 2002. Je suis ensuite arrivée en Suisse pour me former aux HUG, où j'ai **obtenu le titre de chirurgienne** en 2010.
@@ -18,14 +26,5 @@ J'ai grandi en Pologne et j'y ai vécu jusqu'à la fin de mes études de médeci
 Depuis octobre 2017, j'occupe le **poste de médecin-cheffe** au sein du service de chirurgie des Établissements Hospitaliers du Nord Vaudois. Je suis responsable du [Centre yverdonnois d'obésité et de chirurgie bariatrique](https://www.ehnv.ch/etablissements/centre-dobesite-et-de-chirurgie-bariatrique-cyocb) (CYOCB) et j'assume également un poste de médecin consultante au [service de chirurgie viscérale](https://www.chuv.ch/fr/chirurgie-viscerale/chv-home/) des Hôpitaux Universitaires de Genève (HUG).
 
 J'ai suivi une formation approfondie en chirurgie viscérale en 2018. Depuis 2019, j'ai le titre AFC «thérapie endoveineuse des varices». Mon parcours de médecin diplômée et expérimentée me permet **d'exercer la médecine esthétique** en toute sécurité pour mes patients.
-
-Note de Romain: quelles infos sur sa formation en médecine esthétique?
-
-> Réponse :   
-> Diplôme d’université Paris-Est Créteil, faculté de médecine, médecine esthétique
->
-> Cours de base pour les technologies laser (HUG, Service de dermatologie)
->
-> Cours pratique sur les lasers vasculaires (Smarting Swiss Academy, Zurich)
 
 Je fais partie de la [Société Vaudoise de Médecine](https://www.svmed.ch/) (SVM), de la [Société Suisse de Chirurgie Viscérale ](https://www.viszeralchirurgie.ch/index.php?id=3&lang=fr&cHash=2629757a586c5e39ae528c9abdbb10c0)(SSCV) et du [Swiss Study Group for Morbid Obesity](http://www.smob.ch/fr/) (SMOB).
