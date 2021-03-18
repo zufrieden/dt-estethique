@@ -11,7 +11,7 @@ Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**
 
 **Le premier rendez-vous ne représente pas une obligation de suivre un traitement.** C'est uniquement à vous que cette décision appartiendra. Si vous optez pour un traitement, le coût du premier rendez-vous sera déduit de la facture finale.
 
-**Réservez votre premier rendez-vous en ligne**
+**Réservez votre premier rendez-vous en ligne.**
 
 [Prendre rendez-vous en ligne](# "#")  
 (sans traitement)  
