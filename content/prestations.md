@@ -30,8 +30,8 @@ Dans mon cabinet, **je suis votre unique interlocutrice**, pour garantir une pre
 
 * Dès CHF 300.- la séance
 
-**(i) Exemples de tarifs  
-**Lèvres (ourlet + hydratation)  
+\**(i) Exemples de tarifs  
+\**Lèvres (ourlet + hydratation)  
 Dès CHF 300.-  
 Pli nasogénien  
 Dès CHF 350.-  
@@ -241,52 +241,52 @@ Il s'agit là d'interventions en profondeur dans l'épiderme. L'usage de ces tec
 
 #### Coûts
 
-* Dès CHF 80.- la séance 
+* Dès CHF 80.- la séance
 
-  **(i) Exemples de tarifs (pas séance)  
-  **Entre-sourcils   
+  \**(i) Exemples de tarifs (pas séance)  
+  \**Entre-sourcils  
   CHF 50.-
 
-  Lèvre supérieure   
+  Lèvre supérieure  
   CHF 70.-
 
-  Menton   
+  Menton  
   CHF 70.-
 
-  Aisselle   
-  CHF 100.- 
+  Aisselle  
+  CHF 100.-
 
-  Avant bars   
-  CHF 200.- 
+  Avant bras  
+  CHF 200.-
 
-  Bras entiers   
-  De CHF 300.- à CHF 400.- 
-
-  Torse   
+  Bras entiers  
   De CHF 300.- à CHF 400.-
 
-  Dos complet   
+  Torse  
+  De CHF 300.- à CHF 400.-
+
+  Dos complet  
   De CHF 300.- à CHF 500.-  
-  Sillon interfessier   
+  Sillon interfessier  
   CHF 80.-
 
-  Maillot classique   
-  CHF 100.- 
+  Maillot classique  
+  CHF 100.-
 
-  Maillot échancré   
+  Maillot échancré  
   CHF 150.-
 
-  Maillot intégral   
-  CHF 250.- 
+  Maillot intégral  
+  CHF 250.-
 
-  ½ jambes   
-  CHF 250.- 
+  ½ jambes  
+  CHF 250.-
 
-  Jambes complètes   
-  De CHF 350.- à CHF 450.- 
+  Jambes complètes  
+  De CHF 350.- à CHF 450.-
 
-  Fesses   
-  CHF 200.- 
+  Fesses  
+  CHF 200.-
 
 #### Conseils
 
@@ -326,7 +326,7 @@ Le succès du traitement de réduction des poils dépend beaucoup des compétenc
 
 #### Coûts
 
-* De CHF 200.- à CHF 700.- la séance 
+* De CHF 200.- à CHF 700.- la séance
 
 #### Conseils
 
