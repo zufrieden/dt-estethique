@@ -13,11 +13,9 @@ Toujours est-il que j'ai développé une passion pour les interventions médical
 
 ## Médecine esthétique
 
-Pour pouvoir appliquer cette nouvelle passion pour la médecine esthétique, j'ai suivi une formation spécialisée. En XXX, j'ai obtenu un **Diplôme en médecine esthétique** de la faculté de médecine de l'université Paris-Est Créteil.
+Pour pouvoir appliquer cette nouvelle passion pour la médecine esthétique, j'ai suivi une formation spécialisée. En XXXX, j'ai obtenu un **Diplôme en médecine esthétique** de la faculté de médecine de l'université Paris-Est Créteil.
 
 J'ai aussi accompli le cours de base pour les **technologies laser** (HUG, Service de dermatologie), ainsi que le cours pratique sur les **lasers vasculaires** (Smarting Swiss Academy, Zurich).
-
-> Note de Romain: ce serait top d'avoir les années de ces diplômes. Ça permettrait de situer dans le temps la formation pour la médecine esthétique, ou de montrer que la pratique de la chirurgie a donné à Dorota certaines compétences essentielles (lasers, p. ex.)
 
 ## Mon parcours
 
