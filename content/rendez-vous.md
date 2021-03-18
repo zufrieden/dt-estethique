@@ -7,15 +7,11 @@ date: 2020-11-22T12:34:44.000+01:00
 
 Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique. Même si les traitements que je propose sont légers et rapides, ils demeurent des interventions médicales. Avant toute décision, il est important de **nous rencontrer pour évaluer la situation** et définir le traitement adapté.
 
-Notre premier rendez-vous est un temps d'écoute et de dialogue. **Il ne représente pas une obligation de suivre un traitement.** C'est uniquement à vous que cette décision appartiendra.
+Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**. Il est confidentiel, comme la totalité de nos échanges. Il s'agit uniquement d'un temps d'écoute et de dialogue: aucune intervention ne sera pratiquée durant cette première rencontre.
 
-...Texte pour le CTA...
+**Le premier rendez-vous ne représente pas une obligation de suivre un traitement.** C'est uniquement à vous que cette décision appartiendra. Si vous optez pour un traitement, le coût du premier rendez-vous sera déduit de la facture finale.
 
-Premier rendez-vous
-
-Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter en toute discrétion.
-
-.../Texte pour le CTA...
+**Réservez votre rendez-vous en ligne dès maintenant.**
 
 ## Coordonnées
 
@@ -25,12 +21,3 @@ Rue d'Entremonts 11
 1400 Yverdon-les-Bains  
 [079 405 04 53]()  
 [contact@dt-esthetique.ch]()
-
-#### _Notes pour Romain, ajouter  :
-
-Réservez en ligne  
-Votre premier rendez-vous  
-30 minutes sans intervention  
-CHF 100.- déduit du traitement
-
-Rendez-vous en ligne >> agenda.ch ou qqch dans le genre_
