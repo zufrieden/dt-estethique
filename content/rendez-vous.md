@@ -13,13 +13,17 @@ Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**
 
 **Réservez votre premier rendez-vous en ligne**
 
+[Prendre rendez-vous en ligne](# "#")  
+(sans traitement)  
+  
 Si vous souhaitez obtenir un rendez-vous pour un traitement, contactez-moi par courriel ou téléphone.
+
+[079 405 04 53]()  
+[contact@dt-esthetique.ch]()
 
 ## Coordonnées
 
 Dre Dorota Teterycz  
 Cabinet de médecine esthétique  
 Rue d'Entremonts 11  
-1400 Yverdon-les-Bains  
-[079 405 04 53]()  
-[contact@dt-esthetique.ch]()
+1400 Yverdon-les-Bains
