@@ -9,6 +9,8 @@ sections:
   label: Prestations
   create: all
   match: "**/*"
+  templates:
+  - prestations
 - type: directory
   path: content
   label: Pages
