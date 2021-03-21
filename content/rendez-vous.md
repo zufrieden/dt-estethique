@@ -12,20 +12,19 @@ Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**
 **Le premier rendez-vous ne représente pas une obligation de suivre un traitement.** C'est uniquement à vous que cette décision appartiendra. Si vous optez pour un traitement, le coût du premier rendez-vous sera déduit de la facture finale.
 
 
-{{< box-cta
+<!-- {{< box-cta
 background="inverted"
 img="/images/face_1.png"
 surtitle="En ligne"
 title="Réservez votre premier rendez-vous en ligne"
 link="mailto:contact@dt-esthetique.ch"
 link_label="Prendre rendez-vous sans traitement"
->}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
-
-
-## Si vous souhaitez obtenir un rendez-vous pour un traitement, contactez-moi par courriel ou téléphone.
+>}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}} -->
 
 * +41 79 405 04 53
 * [contact@dt-esthetique.ch](mailto:contact@dt-esthetique.ch)
+
+### Si vous souhaitez obtenir un rendez-vous pour un traitement, contactez-moi par courriel ou téléphone.
 
 ## Coordonnées
 
