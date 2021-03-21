@@ -29,10 +29,9 @@ Enjoy this styleguide and discover all the designed element on the website
 
 ##### Buttons
 
-<div>
 {{<button href="#" name="Prendre un rendez-vous" >}}
 {{<button href="#" name="En savoir plus" >}}
-</div>
+
 
 #####  links
 
@@ -103,6 +102,21 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda fuga mollitia
 1.   Students
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum velit labore eos optio et sequi at id iste minima expedita obcaecati maxime libero, temporibus quaerat necessitatibus, nam in eius cupiditate.
+
+
+{{% columns %}}
+
+{{< face >}}
+
+##### Vos objectifs
+
+## Affiner le visage
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum velit labore eos optio et sequi at id iste minima expedita obcaecati maxime libero, temporibus quaerat necessitatibus, nam in eius cupiditate.
+
+
+
+{{% /columns %}}
 
 
 ##### Blocks and call to actions

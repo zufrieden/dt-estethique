@@ -1,1 +1,3 @@
-<a href="{{ .Get "href" }}"  {{ with .Get "target" }}target="{{.}}"{{ end }} class="button{{ with .Get "class" }} {{.}}{{ end }}">{{ .Get "name" }}</a>
+<div data-aos="fade-up" data-aos-duration="600">
+	<a href="{{ .Get "href" }}"  {{ with .Get "target" }}target="{{.}}"{{ end }} class="button{{ with .Get "class" }} {{.}}{{ end }}">{{ .Get "name" }}</a>
+</div>
