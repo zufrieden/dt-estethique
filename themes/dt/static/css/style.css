@@ -114,7 +114,7 @@ html.no-js [data-aos] {
 body{
   font-family: Montserrat,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-size: calc(0.8em + 0.5vw);
-  font-size: clamp(1em,calc(0.8em + 0.5vw),22px);
+  font-size: clamp(1em,calc(0.8em + 0.5vw),18px);
   margin: 0;
   padding:0;
   color: var(--minuit);
@@ -225,9 +225,9 @@ header nav a {
   transition-property: background-size, color, background-image;
   transition-duration: 0.4s;
   color: var(--minuit);
-  padding: calc(2px + 0.8em) 0;
+  padding: calc(1px + 0.8em) 0;
   margin: 0 1em;
-  background-size: 0 2px;
+  background-size: 0 1px;
 }
 header nav a::after{
   content: "◆";
@@ -250,7 +250,7 @@ header nav a:hover{
   background: linear-gradient(to right,
     var(--cuivre) 0%,
     var(--cuivre) 100%) center bottom no-repeat;
-  background-size: 100% 2px;
+  background-size: 100% 1px;
   color: var(--cuivre);
 }
 
@@ -599,24 +599,20 @@ blockquote::before {
 }
 
 /* Article aside (prestations) */
-@media (min-width: 60em) {
-  aside{
-    float: right;
-    width: 30%;
-    margin-left: 4em;
-  }
+.prestation{
+  margin-top: 3em;
 }
-.prestation aside{
-  margin: 2em;
+.prestation aside .bg-aside{
+  margin: 1em 0;
+  padding: 1em 1.2em;
+  background-color: var(--cuivre50);
 }
 .prestation img{
   max-width: 100%;
 }
 .prestation aside dl{
-  padding: 0.5em 1.6em 1.6em;
   margin-left: 0;
   margin-right: 0;
-  background-color: var(--cuivre50);
   font-size: 80%;
 }
 .prestation aside dt{
@@ -626,9 +622,22 @@ blockquote::before {
   padding-left: 0;
   margin-left: 1.8rem;
 }
-.prestation aside>*{
+/* .prestation aside>*{
   display: block;
   margin: 0 0 1em 0;
+} */
+@media (min-width: 60em) {
+  .prestation{
+    display: flex;
+  }
+  .prestation-intro{
+    width: 65%;
+    margin-right: 5%;
+  }
+  .prestation aside{
+    width: 30%;
+    margin: 0 0 2em 1em;
+  }
 }
 
 .icon{

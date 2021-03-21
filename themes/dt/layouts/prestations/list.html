@@ -6,50 +6,51 @@
 	{{ end }}
 	
 	{{ range .Data.Pages }}
-	
+	<div class="listing-prestations">
 		<article class="prestation">			
-	
+			<div class="prestation-intro">
+				
 			<h2>
 				{{ .Title }}	
 			</h2>
-			<aside>			
-			
-				<dl>	
-				{{ if .Params.effet_temps }}
-				  <dt class="icon icon-time h5 color-minuit">Effet</dt>
-				  <dd>{{ .Params.effet_temps }}</dd>
-				{{ end }}
-				{{ if .Params.seances }}
-				  <dt class="icon icon-agenda h5 color-minuit">Nombre de séance</dt>
-				  <dd>{{ .Params.seances }}</dd>
-				{{ end }}
-				{{ if .Params.couts }}
-				  <dt class="icon icon-cost h5 color-minuit">Tarifs</dt>
-				  <dd>{{ .Params.couts }}</dd>
-				{{ end }}
-				</dl>
-				
-				{{ if .Params.cta }}
-				  <a href="/rendez-vous/" class="button">{{ .Params.cta }}</a>
-				{{ end }}
-			</aside>
-	
+
 			{{ if .Params.effet }}
 			  <p class="lead">{{ markdownify .Params.effet }}</p>
 			{{ end }}
-	
-			<h2>Objectifs</h2>
-			<ul>	
-				{{ range $val := .Params.objectifs }}
-					<li>{{ $val }}</li>
-				{{ end }}
-			</ul>
 			
+						
 			<a href="{{.Permalink}}">
 				En savoir plus		
 			</a>
+			</div>
+
+			<aside>			
+				<div class="bg-aside">
+					<dl>	
+					{{ if .Params.effet_temps }}
+					  <dt class="icon icon-time h5 color-minuit">Effet</dt>
+					  <dd>{{ .Params.effet_temps }}</dd>
+					{{ end }}
+					{{ if .Params.seances }}
+					  <dt class="icon icon-agenda h5 color-minuit">Nombre de séance</dt>
+					  <dd>{{ .Params.seances }}</dd>
+					{{ end }}
+					{{ if .Params.couts }}
+					  <dt class="icon icon-cost h5 color-minuit">Tarifs</dt>
+					  <dd>{{ .Params.couts }}</dd>
+					{{ end }}
+					</dl>
+					
+					{{ if .Params.cta }}
+					  <a href="/rendez-vous/" class="button">{{ .Params.cta }}</a>
+					{{ end }}
+				</div>
+			</aside>
+
+
 			
 		</article>
+	</div>
 
 	{{ end }}
 	
