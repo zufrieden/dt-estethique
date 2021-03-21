@@ -1,0 +1,31 @@
+---
+label: Prestations
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: banner
+  label: banner
+- type: textarea
+  name: effet
+  label: effet
+- type: list
+  name: objectifs
+  label: objectifs
+- type: text
+  name: effet_temps
+  label: effet_temps
+- type: text
+  name: seances
+  label: seances
+- type: text
+  name: couts
+  label: couts
+- type: text
+  name: cta
+  label: cta
