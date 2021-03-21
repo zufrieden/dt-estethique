@@ -167,7 +167,7 @@ La toxine botulique est un médicament qui peut comporter des potentiels indési
 
 ### Effets
 
-Le MicroNeedling consiste à pratiquer des microperforations invisibles dans l'épiderme. La peau va réagir en boostant sa régénération: elle va produire de l'élastine et du collagène, qui vont reonner de l'éclat et du volume.
+Le MicroNeedling consiste à pratiquer des microperforations invisibles dans l'épiderme. La peau va réagir en boostant sa régénération: elle va produire de l'élastine et du collagène, qui vont résonner de l'éclat et du volume.
 
 ### Utilisation
 
@@ -213,7 +213,7 @@ La séance dure environ 30 minutes. **Elle est confortable** même sur les peaux
 
 Les lasers Nd:YAG à impulsions longues pénètrent dans la peau à une profondeur de 5-6 mm. L’impulsion lumineuse coagule le sang dans la veine et **détruit la varicosité ou la varice** sans lésion cutanée ni complication.
 
-La sclérothérapie consiste à injecter un produit qui va **boucher les vaisseaux** à traiter. Devenus inutiles, ils seront progressivemnent éliminés par l'organisme. Et les zones concernées retrouveront un aspect esthétique plus harmonieux.
+La sclérothérapie consiste à injecter un produit qui va **boucher les vaisseaux** à traiter. Devenus inutiles, ils seront progressivement éliminés par l'organisme. Et les zones concernées retrouveront un aspect esthétique plus harmonieux.
 
 ### Utilisation
 
@@ -410,7 +410,7 @@ Mon laser de qualité médicale permet un contrôle exact et précis de toute la
 
 ### Effets
 
-Fotona4D est un traitement au laser qui **agit sur quatre dimensions** pour resserrer la cavité buccale, rajeunir et retendre la peau, puis effectuer un peeling léger à la surface de l'épiderme. Après l'intervention, la peau est visiblement raffermie, les sillons songt comblés et les ridules ont disparu.
+Fotona4D est un traitement au laser qui **agit sur quatre dimensions** pour resserrer la cavité buccale, rajeunir et retendre la peau, puis effectuer un peeling léger à la surface de l'épiderme. Après l'intervention, la peau est visiblement raffermie, les sillons sont comblés et les ridules ont disparu.
 
 ### Utilisation
 
@@ -493,6 +493,6 @@ La thérapie NightLase de Fotona est le moyen idéal de retrouver un sommeil de 
 
 ### Précautions
 
-Il est impératif **d'effectuer une consultation ORL** avant d'envisagerun traitement Nightlase. Cela permettra de s'assurer qu'il n'existe aucune contre-indication médicale à mon intervention.
+Il est impératif **d'effectuer une consultation ORL** avant d'envisager un traitement Nightlase. Cela permettra de s'assurer qu'il n'existe aucune contre-indication médicale à mon intervention.
 
 ### [Prendre rendez-vous]()
