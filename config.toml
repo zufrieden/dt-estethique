@@ -11,8 +11,8 @@ theme = "dt"
 
 [menu]
   [[menu.main]]
-		identifier = "homepage"
-		name = "Homepage"
+		identifier = "accueil"
+		name = "Accueil"
 		url = "/"
 		weight = 1 
 
