@@ -11,19 +11,26 @@ Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**
 
 **Le premier rendez-vous ne représente pas une obligation de suivre un traitement.** C'est uniquement à vous que cette décision appartiendra. Si vous optez pour un traitement, le coût du premier rendez-vous sera déduit de la facture finale.
 
-**Réservez votre premier rendez-vous en ligne.**
 
-[Prendre rendez-vous en ligne](# "#")  
-(sans traitement)  
-  
-Si vous souhaitez obtenir un rendez-vous pour un traitement, contactez-moi par courriel ou téléphone.
+{{< box-cta
+background="inverted"
+img="/images/face_1.png"
+surtitle="En ligne"
+title="Réservez votre premier rendez-vous en ligne"
+link="/rendez-vous/"
+link_label="Prendre rendez-vous sans traitement"
+>}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
 
-[079 405 04 53]()  
-[contact@dt-esthetique.ch]()
+
+## Si vous souhaitez obtenir un rendez-vous pour un traitement, contactez-moi par courriel ou téléphone.
+
+* +41 79 405 04 53
+* [contact@dt-esthetique.ch](mailto:contact@dt-esthetique.ch)
 
 ## Coordonnées
 
-Dre Dorota Teterycz  
+**Dre Dorota Teterycz**
+
 Cabinet de médecine esthétique  
 Rue d'Entremonts 11  
 1400 Yverdon-les-Bains

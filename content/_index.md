@@ -41,7 +41,7 @@ background="inverted"
 img="/images/face_1.png"
 surtitle="Contact"
 title="Premier rendez-vous"
-link="#"
+link="/rendez-vous/"
 link_label="Prendre rendez-vous"
 >}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
 
