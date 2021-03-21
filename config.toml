@@ -30,7 +30,7 @@ theme = "dt"
 
   [[menu.main]]
 		identifier = "prestations"
-		name = "Les prestations"
+		name = "Mes prestations"
 		url = "/prestations/"
 		weight = 3
 
