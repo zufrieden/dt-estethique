@@ -119,6 +119,10 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum velit labore eos o
 {{% /columns %}}
 
 
+{{< face-grey >}}
+{{< back class="half-image-left" >}}
+{{< hand >}}
+
 ##### Blocks and call to actions
 
 {{< box-cta

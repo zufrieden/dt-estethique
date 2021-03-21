@@ -17,7 +17,7 @@ background="inverted"
 img="/images/face_1.png"
 surtitle="En ligne"
 title="Réservez votre premier rendez-vous en ligne"
-link="/rendez-vous/"
+link="mailto:contact@dt-esthetique.ch"
 link_label="Prendre rendez-vous sans traitement"
 >}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
 
