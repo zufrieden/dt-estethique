@@ -12,7 +12,7 @@
   --noir: #333333;
   
   /* sizes */  
-  --maxwidth: 1900px;
+  --maxwidth: 1500px;
 }
 
 @font-face {
@@ -154,8 +154,8 @@ a:visited{
 .small-logo{
   display: block;
   width: 50vw;
-  min-width: 250px;
-  max-width: 300px;
+  min-width: 200px;
+  max-width: 250px;
 }
 .big-logo{
   display: none;
@@ -175,7 +175,7 @@ header{
   flex-shrink: 1;
   flex-basis: 200px;
   margin: 0 auto 2vh;
-  padding: 2vh 2vw;
+  padding: 3vh 2vw 0;
   max-width: var(--maxwidth);
 }
 .js header nav{
@@ -210,6 +210,7 @@ header nav a {
   transition-timing-function: ease-in-out;
   transition-property: background-size, color, background-image;
   transition-duration: 0.4s;
+  color: var(--minuit);
   padding: calc(2px + 0.8em) 0;
   margin: 0 1em;
   background-size: 0 2px;
@@ -278,9 +279,16 @@ header nav a:hover{
   align-items: center;
 }
 #hamburger span{
+  font-family: 'Garamond-semi-bold', Serif;
+  font-weight: 600;
+  font-size: 120%;
   transition-timing-function: ease-in-out;
-  transition-property: padding;
+  transition-property: padding, color;
   transition-duration: 0.4s;
+  color: var(--minuit);
+}
+#hamburger:hover span{
+  color: var(--cuivre);
 }
 #hamburger svg {
   width: 60px;
@@ -391,9 +399,10 @@ h1, .h1 {
   font-family: Montserrat-semi-bold,-apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
   font-size: calc(1.1em + 1vw);
   font-size: clamp(1em,calc(1.1em + 1vw),30px);
+  text-transform: uppercase;
   line-height: 1.1em;
   font-weight: 600;
-  margin-top: 0;
+  margin-top: 1.2em;
   margin-bottom: 1em;
 }
 h2, .h2 {
@@ -411,7 +420,7 @@ h2 em, .h2 em{
 }
 h3, .h3 {
   font-size: calc(0.7em + 1vw);
-  font-size: clamp(1em,calc(0.7em + 1vw),26px);
+  font-size: clamp(1.4em,calc(0.7em + 1vw),26px);
   font-weight: 600;
   line-height: 1.3em;
   margin-top: 0;
@@ -762,7 +771,7 @@ nav.pagination a{
   flex-direction: column;
   justify-content: space-between;
   margin: 1em auto 1em;
-  padding: 2vh 2vw;
+  padding: 2vh 0;
   max-width: var(--maxwidth);
 } 
 
@@ -804,8 +813,9 @@ nav.pagination a{
     margin-bottom: -10vh;
   }
   .dorota-quote-img{
-    width: 25vw;
+    width: 30vw;
     min-width: 400px;
+    max-width: calc(var(--maxwidth)/2.5);
     height: 60vh;
   }
   .dorota-quote-imgsecond{
@@ -817,8 +827,12 @@ nav.pagination a{
     margin-top: 0;
     width: 100%;
   }
+  .dorota-quote-content p{
+    max-width: 50ch;
+  }
   .dorota-quote-container{
     flex-direction: row;
+    padding-left: clamp(90px, 8vw, 250px);
   }
 }
 
@@ -842,7 +856,7 @@ footer{
   margin: 8vh auto 0;
   padding: 4vh 2vw 3vh;
   color: var(--cuivre);
-  max-width: var(--maxwidth);
+  /* max-width: var(--maxwidth); */
 }
 .footer-content div{
   padding: 0.5em;
