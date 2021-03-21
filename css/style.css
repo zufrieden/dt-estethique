@@ -576,6 +576,31 @@ blockquote::before {
   }
 }
 
+
+/* face SVG anim */
+.face{
+  float: right;
+  position: relative;
+  padding: 2vw;
+  clip-path: polygon(10% 0%, 100% 0%, 100% 100%, 20% 100%, 5% 60%, 0% 30%);
+  shape-outside: polygon(10% 0%, 100% 0%, 100% 100%, 20% 100%, 5% 60%, 0% 30%);
+}
+.face svg{
+  max-width: 35vw;
+  height: auto;
+}
+.face svg:not(:first-child){
+  position: absolute;
+  top:0;
+  left:0;
+}
+.face svg *{
+  transition: all 0.5s ease-in-out;
+}
+.face svg *:hover {
+  fill: var(--nacre50);
+}
+
 /* box CTA */
 .box-cta{
   margin-top: 4em;
@@ -657,9 +682,6 @@ blockquote::before {
 }
 
 /* Dorota Quote */
-.dorota-quote{
-  margin-bottom: 20vh;
-}
 .dorota-quote-container{
   display: flex;
   flex-direction: column;
@@ -700,6 +722,9 @@ blockquote::before {
 
 @media (min-width: 60em) 
 {
+  .dorota-quote{
+    margin-bottom: 20vh;
+  }
   .dorota-quote-image{
     margin-bottom: -10vh;
   }
