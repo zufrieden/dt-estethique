@@ -21,6 +21,7 @@
 	</main>
 	{{ partial "footer" . }}
 	
+	{{ if .Params.bg }}
 	<style>
 		.js body {
 		  background-color: rgb(244,235,224);
@@ -36,6 +37,7 @@
 		  body.style.backgroundColor = `rgb(${r}, ${g}, ${b})`
 		})
 	</script>
+	{{ end }}	
 	<script src="{{ "/js/aos.js" | relURL }}"></script>	
 	<script>
 		  AOS.init();

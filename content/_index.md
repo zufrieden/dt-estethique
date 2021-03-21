@@ -1,7 +1,7 @@
 ---
 title: Dre Dorota Teterycz – Cabinet de médecine esthétique à Yverdon-les-Bains
 date: 2020-11-22T12:34:44.000+01:00
-
+bg: true
 ---
 {{< dorota-quote
 img_first="/images/woman_face_1.png"

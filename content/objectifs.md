@@ -1,9 +1,9 @@
 +++
 
 +++
-# Objectifs
+# Vos objectifs
 
-**La médecine esthétique est un domaine très vaste. Il existe tant de techniques, de méthodes et de traitements qu'il est normal de vous y perdre. Ce qui compte, c'est le résultat que vous souhaitez.**
+La médecine esthétique est un domaine très vaste. Il existe tant de techniques, de méthodes et de traitements qu'il est normal de vous y perdre. Ce qui compte, c'est le résultat que vous souhaitez.
 
 C'est pourquoi il est indispensable de **commencer par nous rencontrer**. Au cours d'un premier rendez-vous qui ne vous engage à rien, vous pourrez m'expliquer vos attentes. Après ce temps d'écoute, je pourrai recommander le traitement le mieux adapté à vos objectifs et votre situation individuelle.
 
