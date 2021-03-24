@@ -14,7 +14,7 @@ Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**
 
 <!-- {{< box-cta
 background="inverted"
-img="/images/face_1.png"
+img="/images/dorota_teterycz_profile.jpg"
 surtitle="En ligne"
 title="Réservez votre premier rendez-vous en ligne"
 link="mailto:contact@dt-esthetique.ch"

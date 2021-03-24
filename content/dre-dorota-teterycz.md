@@ -5,8 +5,8 @@ bg: true
 ---
 
 {{< dorota-quote
-img_first="/images/doctor_face.png"
-img_second="/images/doctor_face.png"
+img_first="/images/dorota_teterycz.jpg"
+img_second="/images/dorota_teterycz_mask.jpg"
 >}}
 Je m'appelle Dorota Teterycz. J'ai fondé ce cabinet de médecine esthétique pour pratiquer des interventions médicales dans un but esthétique, sans opération.
 {{< /dorota-quote >}}
@@ -34,7 +34,7 @@ Je fais partie de la [Société Vaudoise de Médecine](https://www.svmed.ch/) (S
 
 {{< box-cta
 background="inverted"
-img="/images/face_1.png"
+img="/images/dorota_teterycz_profile.jpg"
 surtitle="Contact"
 title="Premier rendez-vous"
 link="/rendez-vous/"

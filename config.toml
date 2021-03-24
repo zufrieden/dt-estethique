@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "fr-ch"
 title = "Dre Dorota Teterycz  – Médecine Esthétique"
 theme = "dt"
+description = "Je m'appelle Dorota Teterycz. J'ai fondé ce cabinet de médecine esthétique pour pratiquer des interventions médicales dans un but esthétique, sans opération."
 
 
 [markup]

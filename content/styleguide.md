@@ -126,7 +126,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum velit labore eos o
 ##### Blocks and call to actions
 
 {{< box-cta
-img="/images/face_1.png"
+img="/images/dorota_teterycz_profile.jpg"
 surtitle="Contact"
 title="Prendre rendez-vous"
 link="#"
@@ -138,7 +138,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assu
 
 {{< box-cta
 background="inverted"
-img="/images/face_1.png"
+img="/images/dorota_teterycz_profile.jpg"
 surtitle="Contact"
 title="Prendre rendez-vous"
 link="#"
@@ -149,7 +149,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assu
 
 
 {{< lightbox-cta
-img="/images/doctor_face.png"
+img="/images/dorota_teterycz.jpg"
 surtitle="Dre Dorota Teterycz"
 title="Confiance et résultat visible"
 link="#"
@@ -161,7 +161,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assu
 
 {{< lightbox-cta
 background="inverted"
-img="/images/doctor_face.png"
+img="/images/dorota_teterycz.jpg"
 surtitle="Dre Dorota Teterycz"
 title="Confiance et résultat visible"
 link="#"
