@@ -8,6 +8,7 @@
   --metisse: #c2a18b;
   --rose: #c9a79b;
   --mist: #cacdcf;
+  --mist50: #D7D8D9;
   --blanc: #fdfdfd;
   --noir: #333333;
   
@@ -423,7 +424,7 @@ h2, .h2 {
   font-size: clamp(1.3em,calc(1.6em + 1vw),34px);
   line-height: 1.3em;
   font-weight: 600;
-  margin-top: 0;
+  /* margin-top: 0; */
   margin-bottom: 0;
 }
 h2 em, .h2 em{
@@ -479,8 +480,8 @@ p + p, p + ul, ul + p, h2 + p, h3 + ol, h3 + ul, h2 + ol, h2 + ul{
 p + h2, p + h3,p + h4, p + h5{
   margin-top: 1.4em;
 }
-h1 + h2, h2 + h2, h2 + h3, h5 + h3 , h3 + h4, h4 + h5, h3 + h5{
-  margin-top: 1.2em;
+h1 + h2, h2 + h2, h2 + h3, h5 + h3 , h3 + h4, h4 + h5, h3 + h5, h5 + h1, h1 + h5, h5 + h1, h1 + h5{
+  margin-top: 0.6em;
 }
 ul, ol{
   margin-left: 1.4em;
@@ -561,6 +562,7 @@ blockquote::before {
 .bg-metisse{ background-color: var(--metisse); }
 .bg-rose{ background-color: var(--rose); }
 .bg-mist{ background-color: var(--mist); }
+.bg-mist50{ background-color: var(--mist50); }
 .bg-blanc{ background-color: var(--blanc); }
 .bg-noir{ background-color: var(--noir); }
 
@@ -572,6 +574,7 @@ blockquote::before {
 .color-metisse{ color: var(--metisse); }
 .color-rose{ color: var(--rose); }
 .color-mist{ color: var(--mist); }
+.color-mist50{ color: var(--mist50); }
 .color-blanc{ color: var(--blanc); }
 .color-noir{ color: var(--noir); }
 
@@ -601,6 +604,9 @@ blockquote::before {
 /* Article aside (prestations) */
 .prestation{
   margin-top: 3em;
+}
+.prestation aside{
+  margin-top: 2em;
 }
 .prestation aside .bg-aside{
   margin: 1em 0;
@@ -706,6 +712,42 @@ nav.pagination a{
 }
 .face svg *:hover {
   fill: var(--nacre50);
+}
+
+/* box intro */
+.box-intro{
+  margin-top: 4em;
+  margin-bottom: 4em;;
+}
+.box-intro-content{
+  background-color: var(--mist50);
+  padding: 1.5em;
+}
+.box-intro-img{
+  margin-top: -3em;
+  margin-bottom: 2em;
+  float: left;
+  width: 80vw;
+  height: 30vh;
+  object-fit: cover;
+  object-position: 50% 50%; 
+  margin-right: 20vw;
+}
+
+@media (min-width: 40em) {
+
+  .box-intro-content{
+    margin-left: 4em;
+  }
+  .box-intro-img{
+    margin-top: 1em;
+    margin-right: 3em;
+    max-width: 20vw;
+    min-width: 25em;
+    height: auto;
+    max-height: 500px;
+  }
+
 }
 
 /* box CTA */
