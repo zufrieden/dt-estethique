@@ -38,7 +38,7 @@ Je vous aide à **lutter dès aujourd’hui** contre les facteurs qui aggraveron
 
 {{< box-cta
 background="inverted"
-img="/images/dorota_teterycz_profile.jpg"
+img="/images/dorota_teterycz.jpg"
 surtitle="Contact"
 title="Premier rendez-vous"
 link="/rendez-vous/"
@@ -46,7 +46,7 @@ link_label="Prendre rendez-vous"
 >}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
 
 {{< lightbox-cta
-img="/images/dorota_teterycz.jpg"
+img="/images/dorota_teterycz_profile.jpg"
 surtitle="Dre Dorota Teterycz"
 title="Ma promesse"
 link="dre-dorota-teterycz"
