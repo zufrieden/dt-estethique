@@ -3,9 +3,13 @@ title: Prenons rendez-vous
 date: 2020-11-22T12:34:44.000+01:00
 
 ---
-# Prenons rendez-vous
 
+{{< box-intro 
+img="/images/dorota_teterycz_mask.jpg"
+title="Prenons rendez-vous"
+>}}
 Plus efficace que les soins esthétiques, moins invasif que la chirurgie plastique. Même si les traitements que je propose sont légers et rapides, ils demeurent des interventions médicales. Avant toute décision, il est important de **nous rencontrer pour évaluer la situation** et définir le traitement adapté.
+{{< /box-intro >}}
 
 Notre premier rendez-vous durera **environ 30 minutes et sera facturé CHF 100**. Il est confidentiel, comme la totalité de nos échanges. Il s'agit uniquement d'un temps d'écoute et de dialogue: aucune intervention ne sera pratiquée durant cette première rencontre.
 

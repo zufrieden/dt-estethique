@@ -125,6 +125,13 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum velit labore eos o
 
 ##### Blocks and call to actions
 
+{{< box-intro 
+img="/images/face_3.jpg"
+title="Mes prestations"
+>}}
+Youpi Lorem ipsum dolor sit **amet consectetur adipisicing** elit. In quae vitae vero assumenda sequi consectetur dolores quasi.
+{{< /box-intro >}}
+
 {{< box-cta
 img="/images/dorota_teterycz_profile.jpg"
 surtitle="Contact"

@@ -1,0 +1,7 @@
+<div class="box-intro{{ with .Get "class" }} {{.}}{{ end }}" data-aos="fade-up">
+	<img src="{{ with .Get "img" }}{{.}}{{ end }}" alt="" class="box-intro-img"  data-aos="zoom-in" data-aos-duration="350">
+	<div class="box-intro-content {{ with .Get "background" }} {{.}}{{ end }}">
+		<h1 data-aos="fade-up" data-aos-duration="300">{{ with .Get "title"}}{{.}}{{ end }}</h1>
+		<p data-aos="fade-up" data-aos-duration="500">{{ markdownify .Inner }}</p>
+	</div>
+</div>
