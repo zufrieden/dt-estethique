@@ -12,7 +12,7 @@ Je m'appelle Dorota Teterycz. J'ai fondé ce cabinet de médecine esthétique po
 {{< /dorota-quote >}}
 
 
-J'exerce comme chirurgienne depuis une dizaine d'années. Et mon expérience m'a naturellement menée à **m'intéresser à la peau**. Est-ce que c'est pour contrebalancer le travail que j'effectue quotidiennement en profondeur dans le coprs humain?
+J'exerce comme chirurgienne depuis une dizaine d'années. Et mon expérience m'a naturellement menée à **m'intéresser à la peau**. Est-ce que c'est pour contrebalancer le travail que j'effectue quotidiennement en profondeur dans le corps humain?
 
 Toujours est-il que j'ai développé une passion pour les interventions médicales à vocation esthétique. Habituée à manier les instruments médicaux, je maîtrise le laser et les injections. Je m'en sers désormais pour **aider mes patients à embellir, rajeunir ou prévenir** les problèmes de peau.
 

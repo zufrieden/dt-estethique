@@ -2,12 +2,11 @@
 title: "Combler vos rides avec l’acide hyaluronique"
 date: 2021-03-21T12:13:10+01:00
 draft: false
-banner: /images/combler_vos_rides_avec_l_acide_hyaluronique.jpg
+# banner: /images/combler_vos_rides_avec_l_acide_hyaluronique.jpg
 effet: "L'acide hyaluronique **comble véritablement vos rides**. Il remplace la masse graisseuse sous-cutanée, qui a tendance à disparaître avec l'âge. Ainsi, l'eau est retenue sous votre peau comme dans une éponge. Et les traits creusés retrouvent du volume."
 objectifs: 
 - "Combler des rides"
 - "Redéfinir les contours du visage"
-- "Rajeunir le décolleté et les mains"
 - "Rajeunir le décolleté et les mains"
 effet_temps: "Entre 6 et 12 mois"
 seances: "Entre 1 et 4 séances de 20 à 45 minutes"
@@ -15,13 +14,9 @@ couts: "Dès CHF 300.- la séance"
 cta: "Prendre rendez-vous"
 ---
 
-### Conseils
+### Conseil
 
 * Eviter de mettre du maquillage et de pratiquer le sport pendant 24 heures
-
-## Effets
-
-L'acide hyaluronique **comble véritablement vos rides**. Il remplace la masse graisseuse sous-cutanée, qui a tendance à disparaître avec l'âge. Ainsi, l'eau est retenue sous votre peau comme dans une éponge. Et les traits creusés retrouvent du volume.
 
 ## Utilisation
 

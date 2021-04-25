@@ -2,7 +2,7 @@
 title: "Lisser votre peau avec le laser"
 date: 2021-03-21T15:02:05+01:00
 draft: false
-banner: /images/lisser_votre_peau_avec_le_laser.jpg
+# banner: /images/lisser_votre_peau_avec_le_laser.jpg
 effet: "Contrairement aux traitements traditionnels comme la dermabrasion et les peelings chimiques, le laser permet **un contrôle incroyablement précis** du processus de traitement."
 objectifs:
 - Lissage cutané
@@ -18,7 +18,7 @@ cta: "Prendre rendez-vous"
 
 ## Utilisation
 
-**Avec le traitement SmoothEye,** je vise le rafraichissement et le raffermissement instantanés du contour des yeux. Il s'agit d'une intervention douce, rapide et non invasive. Le délai de récupération après l'intervention est très court.
+**Avec le traitement SmoothEye,** je vise le rafraîchissement et le raffermissement instantanés du contour des yeux. Il s'agit d'une intervention douce, rapide et non invasive. Le délai de récupération après l'intervention est très court.
 
 J'utilise **la technique Liplase** pour repulper les lèvres sans injection. Vous obtenez des lèvres plus pleines et plus lisses sans aiguilles ni délai de récupération.
 

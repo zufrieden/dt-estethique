@@ -43,10 +43,10 @@ surtitle="Contact"
 title="Premier rendez-vous"
 link="/rendez-vous/"
 link_label="Prendre rendez-vous"
->}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
+>}} Vous vous intéressez à un soin? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}}
 
 {{< lightbox-cta
-img="/images/dorota_teterycz_profile.jpg"
+img="/images/face_3.jpg"
 surtitle="Dre Dorota Teterycz"
 title="Ma promesse"
 link="dre-dorota-teterycz"
@@ -60,7 +60,7 @@ Je pratique la médecine esthétique pour vous offrir des <strong>résultats vis
 
 ### Technologie et savoir-faire
 
-Mon expertise me permet de proposer une gamme étendue de techniques, de méthodes et de traitements. Quels que soient vos objectifs, je pourrai vous recommander **l'approche la mieux adaptée** aux résultats désirés et à votre situations personnelle.
+Mon expertise me permet de proposer une gamme étendue de techniques, de méthodes et de traitements. Quels que soient vos objectifs, je pourrai vous recommander **l'approche la mieux adaptée** aux résultats désirés et à votre situation personnelle.
 
 
 {{<button href="prestations" name="Découvrir mes prestations" >}}

@@ -2,7 +2,7 @@
 title: "Sculpter et raffermir votre peau avec la techologie TightSculpting"
 date: 2021-03-21T15:06:00+01:00
 draft: false
-banner: /images/sculpter_et_raffermir_votre_peau_avec_la_techologie_tightsculpting.jpg
+# banner: /images/sculpter_et_raffermir_votre_peau_avec_la_techologie_tightsculpting.jpg
 effet: "TightSculpting est un traitement au laser médical qui agit à deux échelles pour **réduire les graisses et retendre la peau**. En profondeur, le laser concentre d'importantes quantités de chaleur dans les cellules graisseuses pour les détruire. En surface, il raffermit la peau et améliore son élasticité."
 objectifs:
 - Sculptage et raffermissement de la peau sur toutes les parties du corps

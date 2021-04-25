@@ -2,8 +2,8 @@
 title: "Prévenir le vieillissement avec le MicroNeedeling"
 date: 2021-03-21T14:23:11+01:00
 draft: false
-banner: /images/prevenir_le_vieillissement_avec_le_microneedeling.jpg
-effet: "Le MicroNeedling consiste à pratiquer des microperforations invisibles dans l'épiderme. La peau va réagir en boostant sa régénération: elle va produire de l'élastine et du collagène, qui vont résonner de l'éclat et du volume."
+# banner: /images/prevenir_le_vieillissement_avec_le_microneedeling.jpg
+effet: "Le MicroNeedling consiste à pratiquer des microperforations invisibles dans l'épiderme. La peau va réagir en boostant sa régénération: elle va produire de l'élastine et du collagène, qui vont restituer de l'éclat et du volume."
 objectifs:
 - Améliorer l’aspect et la texture de la peau
 - Procurer un teint plus éclatant et uniforme

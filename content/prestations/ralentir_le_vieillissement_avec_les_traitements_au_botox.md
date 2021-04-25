@@ -2,7 +2,7 @@
 title: "Ralentir le vieillissement avec les traitements au Botox"
 date: 2021-03-21T12:26:30+01:00
 draft: false
-banner: /images/ralentir_le_vieillissement_avec_les_traitements_au_botox.jpg
+# banner: /images/ralentir_le_vieillissement_avec_les_traitements_au_botox.jpg
 effet: "La toxine botulique (Botox) **agit sur la musculature**. Le Botox relaxe ou stoppe la contraction de certains muscles. Ainsi, il prévient la formation de rides et ralentit le vieillissement de la peau."
 objectifs: 
 - Prévenir le vieillissement
@@ -33,7 +33,7 @@ L'effet du Botox n'est pas permanent, il faudra donc **renouveler les injections
 
 ## Précautions
 
-La toxine botulique est un médicament qui peut comporter des potentiels indésirables dans certains cas. C'est pourquoi Swissmedic **réserve son utilisation à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
+La toxine botulique est un médicament qui peut comporter des effets indésirables dans certains cas. C'est pourquoi Swissmedic **réserve son utilisation à des médecins spécialistes** possédant l’expérience requise et maîtrisant la technique d'injection.
 
 ## Exemples de tarifs  
 
@@ -42,5 +42,5 @@ La toxine botulique est un médicament qui peut comporter des potentiels indési
 * Pattes d’oie  — Dès CHF 200.-
 * Haut du visage  — Dès CHF 500.-
 * Bas du visage  — Dès CHF 200.-
-* Coup  — Dès CHF 200.-
+* Cou  — Dès CHF 200.-
 * Hyperhidrose (aisselles)  — Dès CHF 600.

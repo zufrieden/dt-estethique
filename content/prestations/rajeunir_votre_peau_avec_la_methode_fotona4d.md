@@ -2,7 +2,7 @@
 title: "Rajeunir votre peau avec la méthode Fotona4D"
 date: 2021-03-21T15:04:06+01:00
 draft: false
-banner: /images/rajeunir_votre_peau_avec_la_methode_fotona4d.jpg
+# banner: /images/rajeunir_votre_peau_avec_la_methode_fotona4d.jpg
 effet: "Fotona4D est un traitement au laser qui **agit sur quatre dimensions** pour resserrer la cavité buccale, rajeunir et retendre la peau, puis effectuer un peeling léger à la surface de l'épiderme. Après l'intervention, la peau est visiblement raffermie, les sillons sont comblés et les ridules ont disparu.
 "
 objectifs:

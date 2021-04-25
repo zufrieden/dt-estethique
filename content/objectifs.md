@@ -44,7 +44,7 @@ Si c'est votre cas, mon expertise de la médecine esthétique peut vous aider. L
 
 ## Prévenir
 
-«Mieux vaut prévenir que guérir», dit l'adage. Et c'est particulièrement vrai en médecine esthétique. **Pas besoin d'attendre** que les problèmes soient là pour s'en occuper ! Il existe aujourd'hui énormément de précautions et de mesures de prévention.
+«Mieux vaut prévenir que guérir», dit l'adage. Et c'est particulièrement vrai en médecine esthétique. **Pas besoin d'attendre** que les problèmes soient là pour s'en occuper! Il existe aujourd'hui énormément de précautions et de mesures de prévention.
 
 Je peux **agir à l'avance**. Préparer votre corps et votre visage. Prendre des mesures pour favoriser un vieillissement harmonieux. Lutter dès aujourd'hui contre les facteurs qui agissent de manière invisible et qui accéléreront ou aggraveront les signes de l'âge dans 10 ou 20 ans.
 
