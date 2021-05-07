@@ -25,8 +25,9 @@ link="mailto:contact@dt-esthetique.ch"
 link_label="Prendre rendez-vous sans traitement"
 >}} Vous vous intéressez à un soin ? Vous souhaitez en savoir plus sur une prestation? N’hésitez pas à me contacter, sans aucune obligation. {{< /box-cta >}} -->
 
-* +41 79 405 04 53
-* [contact@dt-esthetique.ch](mailto:contact@dt-esthetique.ch)
+{{<button href="tel:0041794050453" name="+41 79 405 04 53" >}}
+{{<button href="mailto:contact@dt-esthetique.ch" name="contact@dt-esthetique.ch" >}}
+
 
 ### Si vous souhaitez obtenir un rendez-vous pour un traitement, contactez-moi par courriel ou téléphone.
 
@@ -35,5 +36,4 @@ link_label="Prendre rendez-vous sans traitement"
 **Dre Dorota Teterycz**
 
 Cabinet de médecine esthétique  
-Rue d'Entremonts 11  
-1400 Yverdon-les-Bains
+[Rue d'Entremonts 11  <br/>1400 Yverdon-les-Bains](https://g.page/r/CYWvuLCJni2HEAE)

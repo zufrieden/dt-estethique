@@ -3,7 +3,7 @@
 +++
 
 {{< box-intro 
-img="/images/dorota_teterycz.jpg"
+img="/images/face_2.jpg"
 title="Vos objectifs"
 >}}
 La médecine esthétique est un domaine très vaste. Il existe tant de techniques, de méthodes et de traitements qu'il est normal de vous y perdre. Ce qui compte, c'est le résultat que vous souhaitez.

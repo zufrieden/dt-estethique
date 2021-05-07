@@ -2,7 +2,7 @@
 title: "Obtenir une épilation définitive au laser"
 date: 2021-03-21T14:55:00+01:00
 draft: false
-# banner: /images/obtenir_une_epilation_definitive_au_laser.jpg
+banner: /images/obtenir_une_epilation_definitive_au_laser.jpg
 effet: "Avec l'épilation au laser, chaque poil est **détruit à la racine**. Le rayon lumineux du laser chauffe le pigment responsable de la coloration des poils. Cela endommage le follicule pileux, qui ne peut plus produire de poils."
 objectifs:
 - Épilation définitive
