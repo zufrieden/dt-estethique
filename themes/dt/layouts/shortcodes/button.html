@@ -1,3 +1,3 @@
 <div data-aos="fade-up" data-aos-duration="600">
-	<a {{ printf "href=%q" (.Get "href") | safeHTMLAttr }}  {{ with .Get "target" }}target="{{.}}"{{ end }} class="button{{ with .Get "class" }} {{.}}{{ end }}">{{ .Get "name" }}</a>
+	<a {{ printf "href=%q" (.Get "href") | safeHTMLAttr }}  {{ with .Get "target" }}target="{{.}}"{{ end }} class="button{{ with .Get "class" }} {{.}}{{ end }}"  data-analytics='"CTA", {"props":{"name":"{{ .Get "name" }}"}}'>{{ .Get "name" }}</a>
 </div>
