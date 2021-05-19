@@ -38,7 +38,7 @@ Je vous aide à **lutter dès aujourd’hui** contre les facteurs qui aggraveron
 
 {{< box-cta
 background="inverted"
-img="/images/dorota_teterycz.jpg"
+img="/images/dre_dorota_teterycz.jpg"
 surtitle="Contact"
 title="Premier rendez-vous"
 link="/rendez-vous/"

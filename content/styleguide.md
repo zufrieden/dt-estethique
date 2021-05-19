@@ -156,7 +156,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assu
 
 
 {{< lightbox-cta
-img="/images/dorota_teterycz.jpg"
+img="/images/dre_dorota_teterycz.jpg"
 surtitle="Dre Dorota Teterycz"
 title="Confiance et résultat visible"
 link="#"
@@ -168,7 +168,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. In quae vitae vero assu
 
 {{< lightbox-cta
 background="inverted"
-img="/images/dorota_teterycz.jpg"
+img="/images/dre_dorota_teterycz.jpg"
 surtitle="Dre Dorota Teterycz"
 title="Confiance et résultat visible"
 link="#"

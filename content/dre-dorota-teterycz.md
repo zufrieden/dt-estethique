@@ -36,7 +36,7 @@ Je fais partie de la [Société Vaudoise de Médecine](https://www.svmed.ch/) (S
 
 {{< box-cta
 background="inverted"
-img="/images/dorota_teterycz.jpg"
+img="/images/dre_dorota_teterycz.jpg"
 surtitle="Contact"
 title="Premier rendez-vous"
 link="/rendez-vous/"

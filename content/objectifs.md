@@ -53,7 +53,7 @@ Je peux **agir à l'avance**. Préparer votre corps et votre visage. Prendre des
 
 {{< box-cta
 background="inverted"
-img="/images/dorota_teterycz.jpg"
+img="/images/dre_dorota_teterycz.jpg"
 surtitle="Contact"
 title="Premier rendez-vous"
 link="/rendez-vous/"
