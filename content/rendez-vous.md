@@ -4,7 +4,7 @@ date: 2020-11-22T12:34:44.000+01:00
 
 ---
 {{< box-intro
-img="/images/dorota_teterycz_mask.jpg"
+img="//images/dre_dorota_teter_cz.jpg_"
 title="Prenons rendez-vous"
 
 > }}
