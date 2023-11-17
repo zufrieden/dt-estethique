@@ -1,7 +1,7 @@
 ---
 title: "Améliorer votre sommeil avec la méthode Nightlase"
 date: 2021-03-21T15:09:07+01:00
-draft: false
+draft: true
 # banner: /images/ameliorer_votre_sommeil_avec_la_methode_nightlase.jpg
 effet: "A l'aide d'un laser, je provoque une contraction de collagène dans le tissu de la muqueuse buccale. Cela induit **un effet de tension** qui réduit les effets de l'apnée du sommeil et diminue l'amplitude des ronflements."
 objectifs:
