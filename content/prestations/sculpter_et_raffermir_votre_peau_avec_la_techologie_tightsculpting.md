@@ -1,5 +1,5 @@
 ---
-title: "Sculpter et raffermir votre peau avec la techologie TightSculpting"
+title: "Sculpter et raffermir votre peau avec la techologie TightSculpting  (lipolyse)"
 date: 2021-03-21T15:06:00+01:00
 draft: false
 banner: /images/sculpter_et_raffermir_votre_peau_avec_la_techologie_tightsculpting.jpg
@@ -7,8 +7,8 @@ effet: "TightSculpting est un traitement au laser médical qui agit à deux éch
 objectifs:
 - Sculptage et raffermissement de la peau sur toutes les parties du corps
 effet_temps: "1 an"
-seances: "6 séances entre 45 et 60 minutes"
-couts: "CHF 500.- la séance"
+seances: "4 à 6 séances entre 45 et 60 minutes"
+couts: "CHF 500.- la séance/zone"
 cta: "Prendre rendez-vous"
 ---
 

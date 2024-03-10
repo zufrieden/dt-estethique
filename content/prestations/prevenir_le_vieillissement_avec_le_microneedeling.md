@@ -8,8 +8,8 @@ objectifs:
 - Améliorer l’aspect et la texture de la peau
 - Procurer un teint plus éclatant et uniforme
 - Densifier et raffermir l’épiderme
-effet_temps: "4 mois"
-seances: "3 séances de 30 à 45 minutes sur un mois, puis renouveler 3 fois par année"
+effet_temps: "3 mois"
+seances: "1 séance de 45 à 60 minutes à renouveler entre 3 à 4 fois par année"
 couts: "Dès CHF 250.- la séance"
 cta: "Prendre rendez-vous"
 ---
@@ -28,8 +28,8 @@ J'utilise le MicroNeedling pour obtenir **un effet de retension** et pour régul
 
 ## Précautions
 
-L'application médicale de cette technique permet de réaliser des perforations allant au-delà de 0,5 mm. Elle est **réservée à des médecins**, qui ont utilisent un stylo électrique à micro-aiguilles. Les cabinets de soins esthétiques travaillent avec un rouleau à main et ne peuvent pas atteindre les couches profondes de la peau.
+L'application médicale de cette technique permet de réaliser des perforations allant au-delà de 0,5 mm. Elle est **réservée à des médecins**, qui utilisent un stylo électrique à micro-aiguilles stériles. 
 
 Les perforations pratiquées sont si minuscules qu'elles ne provoquent **ni lésions, ni marques, ni douleur**.
 
-La séance dure environ 30 minutes. **Elle est confortable** même sur les peaux sensibles. Une légère rougeur peut persister quelques heures après la séance. Le maquillage est possible dès le lendemain.
+La séance dure environ 45 minutes. **Elle est confortable** grâce à l'application d'une crème anesthésiante avant l'intervention, même sur les peaux sensibles. Une légère rougeur peut persister quelques heures après la séance. Le maquillage est possible dès le lendemain.

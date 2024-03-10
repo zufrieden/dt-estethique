@@ -10,7 +10,7 @@ objectifs:
 - "Rajeunir le décolleté et les mains"
 effet_temps: "Entre 6 et 12 mois"
 seances: "Entre 1 et 4 séances de 20 à 45 minutes"
-couts: "Dès CHF 300.- la séance"
+couts: "Dès CHF 400.- la séance"
 cta: "Prendre rendez-vous"
 ---
 
@@ -34,11 +34,12 @@ L’acide hyaluronique que j'utilise contient un anesthésiant. L'intervention e
 
 ## Exemples de tarifs  
 
-* Lèvres (ourlet + hydratation) — Dès CHF 300.-  
-* Pli nasogénien — Dès CHF 350.-  
-* Pli nasogénien et Pli d’amertume — Dès CHF 550.-  
-* Ovale du visage — Dès CHF 400.-  
-* Cernes — Dès CHF 450.-  
-* Lèvres (volume) — Dès CHF 300.-  
-* Mains — Dès CHF 500.-  
-* Tempes ou Pommettes — Dès CHF 450.-
+* Lèvres (contour) — Dès CHF 350.-
+* Lèvres (volume) — Dès CHF 400.-
+* Lèvres (contour et volume) — Dès CHF 650.-
+* Pli nasogénien — Dès CHF 400.-
+* Pli nasogénien et Pli d’amertume — Dès CHF 600.-
+* Ovale du visage — Dès CHF 800.-
+* Cernes — Dès CHF 400.-
+* Mains — Dès CHF 500.-
+* Tempes ou Pommettes — Dès CHF 700.-

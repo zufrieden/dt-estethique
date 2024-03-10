@@ -7,8 +7,8 @@ effet: "Fotona4D est un traitement au laser qui **agit sur quatre dimensions** p
 "
 objectifs:
 - Lifting du visage non chirurgical et sans toxine
-effet_temps: "Entre 6 et 9 mois"
-seances: "4 à 6 séances de 45 à 60 minutes"
+effet_temps: "Entre 3 et 6 mois"
+seances: "2 à 4 séances de 45 à 60 minutes"
 couts: "Entre CHF 500.- et CHF 700.- la séance"
 cta: "Prendre rendez-vous"
 ---
@@ -20,7 +20,7 @@ cta: "Prendre rendez-vous"
 
 Fotona4D est une procédure révolutionnaire de lifting du visage sans chirurgie. Très sûre et légère, l'intervention vous donne **une apparence rajeunie et naturelle.** Votre peau est raffermie et son teint gagne en éclat, ce qui explique l'appellation «SmoothLiftin» de ce traitement.
 
-Les effets du traitement sont **assez persistants**, mais demandent tout de même d'être renouvelés une à deux fois par an.
+Les effets du traitement sont **assez persistants**, mais demandent tout de même d'être renouvelés deux à quatre fois par an.
 
 ## Précautions
 
